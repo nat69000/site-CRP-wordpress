@@ -1,0 +1,545 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SKT Design Agency\n"
+"POT-Creation-Date: 2016-06-07 10:40+0530\n"
+"PO-Revision-Date: 2016-06-07 10:40+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sl_SI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
+"%100==4 ? 2 : 3);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "404 napaka"
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn..... Don't worry... it happens to the "
+"best of us."
+msgstr ""
+"Izgleda, da ste vzeli narobe zavila... Ne skrbite... to se zgodi, da "
+"najboljše od nas."
+
+#: archive.php:36 category.php:32 index.php:35 index.php:84 search.php:25
+msgid "Back"
+msgstr "Nazaj"
+
+#: archive.php:37 category.php:33 index.php:36 index.php:85 search.php:26
+msgid "Next"
+msgstr "Naprej"
+
+#: category.php:19
+msgid "Category: "
+msgstr "Vrsta:"
+
+#: comments.php:30
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ena misel na \"%2$s\""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: comments.php:38
+msgid "Comment navigation"
+msgstr "Navigacija komentarja"
+
+#: comments.php:39
+msgid "&larr; Older Comments"
+msgstr "&larr; Starejši komentarji"
+
+#: comments.php:40
+msgid "Newer Comments &rarr;"
+msgstr "Novejši komentaji &rarr;"
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr "Komentarji so zaprti"
+
+#: content-page.php:18 content-single.php:33 content.php:31 image.php:57
+msgid "Pages:"
+msgstr "Strani:"
+
+#: content-page.php:23 content-single.php:45 image.php:31 image.php:63
+#: inc/template-tags.php:22 inc/template-tags.php:41
+msgid "Edit"
+msgstr "Uredi"
+
+#: content.php:16
+msgid ", "
+msgstr ", "
+
+#: content.php:24
+msgid "Read More &raquo;"
+msgstr "Preberi več \""
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nadaljujte z branjem <span class=“meta-nav”>&rarr;</span>"
+
+#: footer.php:19 inc/customizer.php:316
+msgid "About Design Agency"
+msgstr "O Design agencija"
+
+#: footer.php:22 inc/customizer.php:327
+msgid ""
+"Sed suscipit mauris nec mauris vulputate, a posuere libero congue. Nam "
+"laoreet elit eu erat pulvinar, et efficitur nibh euismod.Nam metus lorem, "
+"hendrerit quis ante eget, lobortis elementum neque. Aliquam in ullamcorper "
+"quam. Integer euismod ligula in mauris vehic."
+msgstr ""
+"Sed suscipit MAURIS dn MAURIS vulputate, je posuere Libero congue. Nam "
+"laoreet elit eu erat pulvinarni, et efficitur nibh euismod.Nam metus lorem, "
+"hendrerit quis ante Eget, lobortis Elementum neque. Aliquam v ullamcorper "
+"quam. Integer euismod ligula v MAURIS vehic."
+
+#: footer.php:25
+msgid ""
+"Check Appearance >> Customize >> About Design Agency for controlling this "
+"section."
+msgstr ""
+"Preverite videz >> po meri >> o Design agencija za nadzor tega oddelka."
+
+#: footer.php:32
+msgid "Latest Posts"
+msgstr "Najnovejše objave"
+
+#: footer.php:52
+msgid "Where to find us"
+msgstr "Kje se nahajamo"
+
+#: footer.php:60
+msgid "Phone:"
+msgstr "Dodaj kontaktno telefonsko številko za glavo"
+
+#: footer.php:64
+msgid "E-mail:"
+msgstr "e-naslov:"
+
+#: footer.php:68
+msgid "Website:"
+msgstr ""
+"SKT Movers in Packers je odziven WordPress tema, ki je večnamenska in se "
+"lahko uporablja za, poslovne, prodajo, ciljne strani, lansiranje izdelka "
+"podjetij in različne druge uporabe spletne strani, kot so lokalna podjetja, "
+"mala podjetja, zagonu, portfelj, osebno, arhitekt, svetovanje, gradbeništvo, "
+"nepremičnine itd Združljiv z kontaktnega obrazca 7, WooCommerce, NextGen "
+"galerija in je prevod pripravljen. Preverite demo na: http://sktthemesdemo."
+"net/moverspackers/"
+
+#: footer.php:74
+msgid ""
+"Check Appearance >> Customize >> Contact Details for controlling this "
+"section."
+msgstr ""
+"Preverite videz >> po meri >> kontaktne informacije za nadzor tega oddelka."
+
+#: footer.php:93
+msgid ""
+"Check Appearance >> Customize >> Social Settings for controlling this "
+"section."
+msgstr ""
+"Preverite videz >> po meri >> družbenih nastavitve za nadzor tega oddelka."
+
+#: footer.php:103
+msgid "&copy; 2016"
+msgstr "&copy; 2016"
+
+#: footer.php:103
+msgid "All Rights Reserved"
+msgstr "Vse pravice pridržane."
+
+#: functions.php:36
+msgid "Primary Menu"
+msgstr "Primarni meni"
+
+#: functions.php:50
+msgid "Blog Sidebar"
+msgstr "Blog Drsnik"
+
+#: functions.php:51
+msgid "Appears on blog page sidebar"
+msgstr "Pojavi se na blog strani sidebar"
+
+#: functions.php:70
+msgctxt "Pacifico:on or off"
+msgid "on"
+msgstr "na"
+
+#: functions.php:71
+msgctxt "PT Sans:on or off"
+msgid "on"
+msgstr "na"
+
+#: functions.php:72
+msgctxt "Oswald:on or off"
+msgid "on"
+msgstr "na"
+
+#: functions.php:73
+msgctxt "Lobster:on or off"
+msgid "on"
+msgstr "na"
+
+#: header.php:43
+msgid "Menu"
+msgstr "Meni"
+
+#: header.php:90 header.php:246 index.php:74
+msgid "Read More"
+msgstr "Preberi več"
+
+#: header.php:217 inc/customizer.php:132
+msgid "Why Choose Us"
+msgstr "Zakaj izbrati nas"
+
+#: image.php:21
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"objavljeno <time class=\"entry-date\" datetime=\"%1$s\"> <span class=\"entry-"
+"date\">%2$s</span> </time> na <a href=\"%3$s\">%4$s ×%5$s</a> na <a href="
+"\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+#: image.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "&larr; Prejšnja"
+
+#: image.php:37
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Naslednje <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr "O temi"
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr "O Tema Info"
+
+#: inc/about-themes.php:32
+msgid ""
+"SKT Design Agency is a responsive WordPress theme which can be used for web "
+"design firms or any other corporate, business, agencies, consulting, firms, "
+"shops and any other kind of website purpose. It can also be used for "
+"portfolio, photography, personal and blogging as well. Translation ready "
+"theme it is compatible with qTranslate X for multilingual and WooCommerce "
+"for E-Commerce."
+msgstr ""
+"SKT Design agencija je odziven WordPress tema, ki se lahko uporabijo za web "
+"design podjetja ali katere koli druge podjetja, poslovne, agencije, "
+"svetovanje, podjetij, trgovin in kakršno koli drugo obliko spletne strani "
+"namen. Lahko se uporablja tudi za portfelj, fotografije, osebne in blogging "
+"tudi. Prevajanje pripravljen tema je združljiva z qTranslate X za večjezične "
+"in WooCommerce za E-poslovanje."
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr "Predstavitev v živo"
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr "Nakup Pro"
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+#: inc/customizer.php:34
+msgid "Color Scheme"
+msgstr "Barvna shema"
+
+#: inc/customizer.php:35
+msgid "More color options in PRO Version"
+msgstr "Več možnosti barv v PRO različici."
+
+#: inc/customizer.php:42
+msgid "About Us Section"
+msgstr "O nas oddelek"
+
+#: inc/customizer.php:43
+msgid "Select Page from the dropdown"
+msgstr "Selektirajte stran s za prvi odsek"
+
+#: inc/customizer.php:55
+msgid "Select page for about us section"
+msgstr "Izberite stran o nas oddelek"
+
+#: inc/customizer.php:65 inc/customizer.php:123 inc/customizer.php:181
+msgid "Hide This Section"
+msgstr "Preverite skriti strani oddelek 1"
+
+#: inc/customizer.php:74
+msgid "Home Featured Boxes"
+msgstr "Domov izrazit škatle"
+
+#: inc/customizer.php:75
+#, php-format
+msgid ""
+"Featured Image Dimensions : ( 231 X 148 )<br/> Select Featured Image for "
+"these pages <br /> How to set featured image %s"
+msgstr ""
+"Priporočeni Image Size: (231 X 148)<br>Izberite sliko, ki pokaže za te "
+"strani<br>Kako nastaviti Priporočeni slika %s"
+
+#: inc/customizer.php:75 inc/customizer.php:133
+msgid "Click Here ?"
+msgstr "kliknite tukaj"
+
+#: inc/customizer.php:89 inc/customizer.php:147
+msgid "Select page for box one:"
+msgstr "Izberite strani za polje:"
+
+#: inc/customizer.php:101 inc/customizer.php:159
+msgid "Select page for box two:"
+msgstr "Izberite stran za polje dve:"
+
+#: inc/customizer.php:113 inc/customizer.php:171
+msgid "Select page for box three:"
+msgstr "Izberite strani za polje tri:"
+
+#: inc/customizer.php:133
+#, php-format
+msgid ""
+"Featured Image Dimensions : ( 135 X 135 )<br/> Select Featured Image for "
+"these pages <br /> How to set featured image %s"
+msgstr ""
+"Priporočeni Image Size: (135 X 135)<br>Izberite sliko, ki pokaže za te "
+"strani<br>Kako nastaviti Priporočeni slika %s"
+
+#: inc/customizer.php:191
+msgid "Slider Settings"
+msgstr "Nastavitve slider-ja"
+
+#: inc/customizer.php:193
+msgid ""
+"Featured Image Size Should be ( 1420x551 ) More slider settings available in "
+"PRO Version."
+msgstr ""
+"Priporočeni podoba velikost mora biti (1420 x 551) več drsnik nastavitve so "
+"na voljo v PRO različici."
+
+#: inc/customizer.php:206
+msgid "Select page for slide one:"
+msgstr "Izberite stran za zdrs eno:"
+
+#: inc/customizer.php:218
+msgid "Select page for slide two:"
+msgstr "Izberite stran za diapozitiv, dva:"
+
+#: inc/customizer.php:230
+msgid "Select page for slide three:"
+msgstr "Izberite stran za diapozitiv tri:"
+
+#: inc/customizer.php:240
+msgid "Hide Slider"
+msgstr "Skriti drsnik"
+
+#: inc/customizer.php:245
+msgid "Social Settings"
+msgstr "socialni Nastavitve"
+
+#: inc/customizer.php:246
+msgid "Add social icons link here.<br />More icon available in PRO Version"
+msgstr ""
+"Dodaj socialne ikone povezava tukaj.<br>Več ikono, ki so na voljo v "
+"različici PRO"
+
+#: inc/customizer.php:256
+msgid "Add facebook link here"
+msgstr "Dodaj facebook povezavo tukaj"
+
+#: inc/customizer.php:266
+msgid "Add twitter link here"
+msgstr "Dodaj Cvrkutati povezavo tukaj"
+
+#: inc/customizer.php:275
+msgid "Add google plus link here"
+msgstr "Dodaj google plus povezavo tukaj"
+
+#: inc/customizer.php:284
+msgid "Add linkedin link here"
+msgstr "Dodaj LinkedIn povezavo tukaj"
+
+#: inc/customizer.php:295 inc/customizer.php:346 inc/customizer.php:408
+msgid "Uncheck this box to show this section"
+msgstr "Počistite to polje za prikaz tega oddelka"
+
+#: inc/customizer.php:299
+msgid "Footer About Design Agency"
+msgstr "Nogo o Design agencija"
+
+#: inc/customizer.php:301
+msgid "Manage Footer About Section"
+msgstr "Upravljanje nogo o oddelku"
+
+#: inc/customizer.php:321
+msgid "Add title here"
+msgstr "Dodajte naslov tukaj"
+
+#: inc/customizer.php:331
+msgid "Add about description for footer"
+msgstr "Dodajte približno opis za nogo"
+
+#: inc/customizer.php:352
+msgid "Contact Details"
+msgstr "Kontakt"
+
+#: inc/customizer.php:353
+msgid "Add you contact details here"
+msgstr "Dodate, obrnete na podrobnosti tukaj"
+
+#: inc/customizer.php:358
+msgid ""
+"First Floor, Rogger John Building 69 Market Street Hampshire, London UK 7925"
+msgstr ""
+"Prvo nadstropje, Hampshire Rogger John stavbe 69 Market Street, London, "
+"Velika Britanija 7925"
+
+#: inc/customizer.php:363
+msgid "Add contact address here"
+msgstr "Dodaj kontaktni naslov tukaj"
+
+#: inc/customizer.php:370
+msgid "+01 23 456 7890"
+msgstr "+01 23 456 7890"
+
+#: inc/customizer.php:374
+msgid "Add contact number here."
+msgstr "Dodaj kontaktno številko tukaj."
+
+#: inc/customizer.php:384
+msgid "Add your email here"
+msgstr "Dodajte svoj email tukaj"
+
+#: inc/customizer.php:395
+msgid "Add your website url here"
+msgstr "Dodaj url spletne strani"
+
+#: inc/customizer.php:461
+msgid "Upgrade to PRO Version"
+msgstr "Vzpenjajoč se v zagovornik predloga prevod"
+
+#: inc/template-tags.php:22
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:35
+#, php-format
+msgid "%s "
+msgstr "Avtor: %s"
+
+#: inc/template-tags.php:38
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:45
+msgid "Your comment is awaiting moderation."
+msgstr "Vaš komentar čaka na moderiranje."
+
+#: inc/template-tags.php:136
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">Objavljene% 1 $ <span class=\"byline\">s%</span></"
+"span> <span class=\"byline\">2 $ s</span>"
+
+#: index.php:56
+msgid "Latest News"
+msgstr "Najnovejše Novice"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "Iskanje ni obrodilo rezultatov"
+
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Pripravljeni objaviti svojo prvo objavo? <a href=\"%1$s\">tu začnete</a> ."
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Žal ni vsebine, ki bi se ujemala z vašim kriterijem iskanja. Prosimo, "
+"poskusite znova z drugačnimi ključnimi besedami."
+
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Zdi se, da ne moremo najti željene vsebine. Poskusite iskalnik ali si "
+"oglejte spodnje povezave."
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Iskalni rezultati za: %s"
+
+#: sidebar.php:10
+msgid "Archives"
+msgstr "Arhivi"
+
+#: sidebar.php:16
+msgid "Meta"
+msgstr "Meta"
+
+#. Theme Name of the plugin/theme
+msgid "SKT Design Agency"
+msgstr "SKT Design Agency"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.sktthemes.net/shop/skt-design-agency/"
+msgstr "http://www.sktthemes.net/shop/Skt-design-Agency/"
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Design Agency is a responsive WordPress theme which can be used for web "
+"design firms or any other corporate, business, agencies, consulting, firms, "
+"shops and any other kind of website purpose. It can also be used for "
+"portfolio, photography, personal and blogging as well. This theme is simple, "
+"white, minimal, clean. Translation ready theme it is compatible with "
+"qTranslate X for multilingual and WooCommerce for E-Commerce. Check demo at: "
+"http://sktthemesdemo.net/design-agency/"
+msgstr ""
+"SKT Design agencija je odziven WordPress tema, ki se lahko uporabijo za web "
+"design podjetja ali katere koli druge podjetja, poslovne, agencije, "
+"svetovanje, podjetij, trgovin in kakršno koli drugo obliko spletne strani "
+"namen. Lahko se uporablja tudi za portfelj, fotografije, osebne in blogging "
+"tudi. Ta tema je čist, minimalno, preprosto, bela. Prevajanje pripravljen "
+"tema je združljiva z qTranslate X za večjezične in WooCommerce za E-"
+"poslovanje. Preverite demo na: http://sktthemesdemo.net/design-agency/"
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.sktthemes.net"
+msgstr "http://www.sktthemes.net"

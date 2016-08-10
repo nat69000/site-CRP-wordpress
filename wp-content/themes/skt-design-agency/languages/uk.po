@@ -1,0 +1,546 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SKT Design Agency\n"
+"POT-Creation-Date: 2016-06-07 10:25+0530\n"
+"PO-Revision-Date: 2016-06-07 10:26+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "404 Не Знайдено"
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn..... Don't worry... it happens to the "
+"best of us."
+msgstr ""
+"Схоже, що ви взяли неправильний поворот... Не турбуйтеся.. це трапиться "
+"кращих з нас."
+
+#: archive.php:36 category.php:32 index.php:35 index.php:84 search.php:25
+msgid "Back"
+msgstr "Назад"
+
+#: archive.php:37 category.php:33 index.php:36 index.php:85 search.php:26
+msgid "Next"
+msgstr "Наступна"
+
+#: category.php:19
+msgid "Category: "
+msgstr "Категорія:"
+
+#: comments.php:30
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Думка про &ldquo;%s&rdquo;  [ заголовок коментарів ]"
+msgstr[1] ""
+msgstr[2] ""
+
+#: comments.php:38
+msgid "Comment navigation"
+msgstr "Навігація по коментарях"
+
+#: comments.php:39
+msgid "&larr; Older Comments"
+msgstr "&larr; Старі коментарі"
+
+#: comments.php:40
+msgid "Newer Comments &rarr;"
+msgstr "Нові коментарі &rarr;"
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr "Коментарі закриті"
+
+#: content-page.php:18 content-single.php:33 content.php:31 image.php:57
+msgid "Pages:"
+msgstr "Сторінки"
+
+#: content-page.php:23 content-single.php:45 image.php:31 image.php:63
+#: inc/template-tags.php:22 inc/template-tags.php:41
+msgid "Edit"
+msgstr "Редагувати"
+
+#: content.php:16
+msgid ", "
+msgstr ","
+
+#: content.php:24
+msgid "Read More &raquo;"
+msgstr "Читати далі &raquo;"
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читати далі <span class=\"meta-nav\">&rarr;</span>"
+
+#: footer.php:19 inc/customizer.php:316
+msgid "About Design Agency"
+msgstr "Про дизайн агентство"
+
+#: footer.php:22 inc/customizer.php:327
+msgid ""
+"Sed suscipit mauris nec mauris vulputate, a posuere libero congue. Nam "
+"laoreet elit eu erat pulvinar, et efficitur nibh euismod.Nam metus lorem, "
+"hendrerit quis ante eget, lobortis elementum neque. Aliquam in ullamcorper "
+"quam. Integer euismod ligula in mauris vehic."
+msgstr ""
+"Sed suscipit mauris nec mauris vulputate, posuere Infostrada при congue. Nam "
+"laoreet elit ЄС erat pulvinar, і efficitur nibh euismod. Nam metus lorem, "
+"hendrerit quis Анте eget, lobortis elementum походить. Aliquam в ullamcorper "
+"quam. Ціле число euismod ligula в mauris АВ."
+
+#: footer.php:25
+msgid ""
+"Check Appearance >> Customize >> About Design Agency for controlling this "
+"section."
+msgstr ""
+"Перевірте зовнішній вигляд >> установки >> про дизайн агентства для контролю "
+"цього розділу."
+
+#: footer.php:32
+msgid "Latest Posts"
+msgstr "Останні записи"
+
+#: footer.php:52
+msgid "Where to find us"
+msgstr "Де знайти нас"
+
+#: footer.php:60
+msgid "Phone:"
+msgstr "Телефон:"
+
+#: footer.php:64
+msgid "E-mail:"
+msgstr "Ел. пошта:"
+
+#: footer.php:68
+msgid "Website:"
+msgstr ""
+"SKT Movers і пакувальників чуйним тема WordPress, які є багатоцільовим і "
+"може бути використаний для корпоративні, бізнес, продаж, цільову сторінку, "
+"запуск продукту і різні інші використання веб-сайту як місцевого бізнесу, "
+"малий бізнес, запуску, портфоліо, особистий, архітектор, консалтингу, "
+"будівництва, нерухомості і т. д. Сумісний з контактну форму 7, WooCommerce, "
+"NextGen галерея і готовий переклад. Перевірте демо на: http://sktthemesdemo."
+"net/moverspackers/"
+
+#: footer.php:74
+msgid ""
+"Check Appearance >> Customize >> Contact Details for controlling this "
+"section."
+msgstr ""
+"Перевірте зовнішній вигляд >> установки >> Контакт подробиці для контролю "
+"цього розділу."
+
+#: footer.php:93
+msgid ""
+"Check Appearance >> Customize >> Social Settings for controlling this "
+"section."
+msgstr ""
+"Перевірте зовнішній вигляд >> установки >> соціальні параметри для "
+"управління даному розділі."
+
+#: footer.php:103
+msgid "&copy; 2016"
+msgstr "&copy; 2016"
+
+#: footer.php:103
+msgid "All Rights Reserved"
+msgstr "Усі права захищені."
+
+#: functions.php:36
+msgid "Primary Menu"
+msgstr "Головне меню"
+
+#: functions.php:50
+msgid "Blog Sidebar"
+msgstr "Бічна панель блогу"
+
+#: functions.php:51
+msgid "Appears on blog page sidebar"
+msgstr "З'являється на сторінці бічній панелі блогу"
+
+#: functions.php:70
+msgctxt "Pacifico:on or off"
+msgid "on"
+msgstr "увімкн."
+
+#: functions.php:71
+msgctxt "PT Sans:on or off"
+msgid "on"
+msgstr "увімкн."
+
+#: functions.php:72
+msgctxt "Oswald:on or off"
+msgid "on"
+msgstr "увімкн."
+
+#: functions.php:73
+msgctxt "Lobster:on or off"
+msgid "on"
+msgstr "увімкн."
+
+#: header.php:43
+msgid "Menu"
+msgstr "Меню"
+
+#: header.php:90 header.php:246 index.php:74
+msgid "Read More"
+msgstr "Читати далі"
+
+#: header.php:217 inc/customizer.php:132
+msgid "Why Choose Us"
+msgstr "Чому обирають нас"
+
+#: image.php:21
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"Опубліковано <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> в <a href=\"%3$s\">%4$s &times; %5$s</a> в <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+#: image.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Попередні"
+
+#: image.php:37
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Наступний <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr "Про тему"
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr "Про теми Info"
+
+#: inc/about-themes.php:32
+msgid ""
+"SKT Design Agency is a responsive WordPress theme which can be used for web "
+"design firms or any other corporate, business, agencies, consulting, firms, "
+"shops and any other kind of website purpose. It can also be used for "
+"portfolio, photography, personal and blogging as well. Translation ready "
+"theme it is compatible with qTranslate X for multilingual and WooCommerce "
+"for E-Commerce."
+msgstr ""
+"SKT дизайн агентство є чуйним тема WordPress, які можуть бути використані "
+"для фірми веб-дизайну або будь-які інші корпоративні, бізнес, агентства, "
+"консалтинг, фірм, магазинів і будь-які інші види веб-сайту мета. Він також "
+"може використовуватися для портфеля, фотографії, особисті і блогів, а. "
+"Переклад готові теми сумісні з qTranslate X для багатомовних і WooCommerce "
+"для електронної комерції."
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr "Демо"
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr "Купити Pro"
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr "Документація"
+
+#: inc/customizer.php:34
+msgid "Color Scheme"
+msgstr "Схема кольорів"
+
+#: inc/customizer.php:35
+msgid "More color options in PRO Version"
+msgstr "Додаткові параметри кольору у версії PRO."
+
+#: inc/customizer.php:42
+msgid "About Us Section"
+msgstr "Про нас розділ"
+
+#: inc/customizer.php:43
+msgid "Select Page from the dropdown"
+msgstr "Виберіть сторінки з розкривного списку для першого розділу"
+
+#: inc/customizer.php:55
+msgid "Select page for about us section"
+msgstr "Виберіть сторінку про нас розділ"
+
+#: inc/customizer.php:65 inc/customizer.php:123 inc/customizer.php:181
+msgid "Hide This Section"
+msgstr "Перевірте, щоб приховати розділ сторінки 1"
+
+#: inc/customizer.php:74
+msgid "Home Featured Boxes"
+msgstr "Головна ознаками коробки"
+
+#: inc/customizer.php:75
+#, php-format
+msgid ""
+"Featured Image Dimensions : ( 231 X 148 )<br/> Select Featured Image for "
+"these pages <br /> How to set featured image %s"
+msgstr ""
+"Розміри Рекомендовані зображення: (231 Х 148)<br>Установіть вибрані "
+"зображення на цих сторінках<br>Як встановити Рекомендовані зображення %s"
+
+#: inc/customizer.php:75 inc/customizer.php:133
+msgid "Click Here ?"
+msgstr "Натисніть Тут"
+
+#: inc/customizer.php:89 inc/customizer.php:147
+msgid "Select page for box one:"
+msgstr "Виберіть сторінки для одного поля:"
+
+#: inc/customizer.php:101 inc/customizer.php:159
+msgid "Select page for box two:"
+msgstr "Виберіть сторінки для вікна, два:"
+
+#: inc/customizer.php:113 inc/customizer.php:171
+msgid "Select page for box three:"
+msgstr "Виберіть сторінки для поля три:"
+
+#: inc/customizer.php:133
+#, php-format
+msgid ""
+"Featured Image Dimensions : ( 135 X 135 )<br/> Select Featured Image for "
+"these pages <br /> How to set featured image %s"
+msgstr ""
+"Розміри Рекомендовані зображення: (135 Х 135)<br>Установіть вибрані "
+"зображення на цих сторінках<br>Як встановити Рекомендовані зображення %s"
+
+#: inc/customizer.php:191
+msgid "Slider Settings"
+msgstr "Параметри слайдера"
+
+#: inc/customizer.php:193
+msgid ""
+"Featured Image Size Should be ( 1420x551 ) More slider settings available in "
+"PRO Version."
+msgstr ""
+"Рекомендовані розмір зображення має бути (1420 х 551) більше повзунок "
+"параметри, доступні у версії PRO."
+
+#: inc/customizer.php:206
+msgid "Select page for slide one:"
+msgstr "Виберіть сторінки для слайдів, один:"
+
+#: inc/customizer.php:218
+msgid "Select page for slide two:"
+msgstr "Виберіть сторінки для слайдів, два:"
+
+#: inc/customizer.php:230
+msgid "Select page for slide three:"
+msgstr "Виберіть сторінки для слайдів три:"
+
+#: inc/customizer.php:240
+msgid "Hide Slider"
+msgstr "Приховати слайдер"
+
+#: inc/customizer.php:245
+msgid "Social Settings"
+msgstr "Соціальні мережі"
+
+#: inc/customizer.php:246
+msgid "Add social icons link here.<br />More icon available in PRO Version"
+msgstr ""
+"Додати соціального ікони посилання тут.<br>Додаткові піктограми доступний у "
+"версії PRO"
+
+#: inc/customizer.php:256
+msgid "Add facebook link here"
+msgstr "Додати facebook посилання тут"
+
+#: inc/customizer.php:266
+msgid "Add twitter link here"
+msgstr "Додавання twitter посилання тут"
+
+#: inc/customizer.php:275
+msgid "Add google plus link here"
+msgstr "Додати google плюс посилання тут"
+
+#: inc/customizer.php:284
+msgid "Add linkedin link here"
+msgstr "Додати linkedin посилання тут"
+
+#: inc/customizer.php:295 inc/customizer.php:346 inc/customizer.php:408
+msgid "Uncheck this box to show this section"
+msgstr "Зніміть цей прапорець, щоб показати цей розділ"
+
+#: inc/customizer.php:299
+msgid "Footer About Design Agency"
+msgstr "Нижній колонтитул про дизайн агентство"
+
+#: inc/customizer.php:301
+msgid "Manage Footer About Section"
+msgstr "Керувати Footer про розділ"
+
+#: inc/customizer.php:321
+msgid "Add title here"
+msgstr "Додати заголовок тут"
+
+#: inc/customizer.php:331
+msgid "Add about description for footer"
+msgstr "Додати про опис для нижнього колонтитула"
+
+#: inc/customizer.php:352
+msgid "Contact Details"
+msgstr "Contact Details:"
+
+#: inc/customizer.php:353
+msgid "Add you contact details here"
+msgstr "Додати контакт Подробиці тут"
+
+#: inc/customizer.php:358
+msgid ""
+"First Floor, Rogger John Building 69 Market Street Hampshire, London UK 7925"
+msgstr ""
+"Перший поверх будівлі Rogger Джон 69-Маркет-стріт-Гемпшир, Лондон, "
+"Великобританія 7925"
+
+#: inc/customizer.php:363
+msgid "Add contact address here"
+msgstr "Додати контактну адресу тут"
+
+#: inc/customizer.php:370
+msgid "+01 23 456 7890"
+msgstr "+ 01 23 456 7890"
+
+#: inc/customizer.php:374
+msgid "Add contact number here."
+msgstr "Додавання контакту номер тут."
+
+#: inc/customizer.php:384
+msgid "Add your email here"
+msgstr "Додати свою електронну пошту"
+
+#: inc/customizer.php:395
+msgid "Add your website url here"
+msgstr "Додати url тут веб-сайту"
+
+#: inc/customizer.php:461
+msgid "Upgrade to PRO Version"
+msgstr "Оновлення до версії PRO"
+
+#: inc/template-tags.php:22
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:35
+#, php-format
+msgid "%s "
+msgstr "Автор: %s"
+
+#: inc/template-tags.php:38
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:45
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш коментар очікує на перевірку."
+
+#: inc/template-tags.php:136
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">Опубліковано %1$s</span> <span class=\"byline\">за "
+"%2$s</span>"
+
+#: index.php:56
+msgid "Latest News"
+msgstr "最新消息"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готові опублікувати ваш перший пост? <a href=\"%1$s\">Почніть тут</a>."
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"На жаль, нічого не знайдено за вашим запитом. Будь ласка, спробуйте ще раз з "
+"іншими ключовими словами."
+
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Здається, ми не можемо знайти те, що ви шукаєте. Можливо, новий пошук зможе "
+"допомогти."
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результати пошуку для: %s"
+
+#: sidebar.php:10
+msgid "Archives"
+msgstr "Усі записи"
+
+#: sidebar.php:16
+msgid "Meta"
+msgstr "Meta"
+
+#. Theme Name of the plugin/theme
+msgid "SKT Design Agency"
+msgstr "SKT Design Agency"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.sktthemes.net/shop/skt-design-agency/"
+msgstr "http://www.sktthemes.net/Shop/Skt-Design-Agency/"
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Design Agency is a responsive WordPress theme which can be used for web "
+"design firms or any other corporate, business, agencies, consulting, firms, "
+"shops and any other kind of website purpose. It can also be used for "
+"portfolio, photography, personal and blogging as well. This theme is simple, "
+"white, minimal, clean. Translation ready theme it is compatible with "
+"qTranslate X for multilingual and WooCommerce for E-Commerce. Check demo at: "
+"http://sktthemesdemo.net/design-agency/"
+msgstr ""
+"SKT дизайн агентство є чуйним тема WordPress, які можуть бути використані "
+"для фірми веб-дизайну або будь-які інші корпоративні, бізнес, агентства, "
+"консалтинг, фірм, магазинів і будь-які інші види веб-сайту мета. Він також "
+"може використовуватися для портфеля, фотографії, особисті і блогів, а. Ця "
+"тема є простий білий мінімальний, чисті. Переклад готові теми сумісні з "
+"qTranslate X для багатомовних і WooCommerce для електронної комерції. "
+"Перевірте демо на: http://sktthemesdemo.net/design-agency/"
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.sktthemes.net"
+msgstr "http://www.sktthemes.net"

@@ -1,0 +1,528 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SKT Design Agency\n"
+"POT-Creation-Date: 2016-06-07 10:22+0530\n"
+"PO-Revision-Date: 2016-06-07 10:23+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "404 - 未找到页面"
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn..... Don't worry... it happens to the "
+"best of us."
+msgstr "看起来你好像弄错了...<br />别担心，谁没出过错呢。"
+
+#: archive.php:36 category.php:32 index.php:35 index.php:84 search.php:25
+msgid "Back"
+msgstr "返回"
+
+#: archive.php:37 category.php:33 index.php:36 index.php:85 search.php:26
+msgid "Next"
+msgstr "下一页"
+
+#: category.php:19
+msgid "Category: "
+msgstr "分类："
+
+#: comments.php:30
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "一个人评论  &ldquo;%2$s&rdquo;"
+
+#: comments.php:38
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:39
+msgid "&larr; Older Comments"
+msgstr "旧的评论"
+
+#: comments.php:40
+msgid "Newer Comments &rarr;"
+msgstr "新的评论"
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr "评论被关闭"
+
+#: content-page.php:18 content-single.php:33 content.php:31 image.php:57
+msgid "Pages:"
+msgstr "页数:"
+
+#: content-page.php:23 content-single.php:45 image.php:31 image.php:63
+#: inc/template-tags.php:22 inc/template-tags.php:41
+msgid "Edit"
+msgstr "编辑"
+
+#: content.php:16
+msgid ", "
+msgstr ","
+
+#: content.php:24
+msgid "Read More &raquo;"
+msgstr "阅读更多 &raquo;"
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "继续阅读<span class=\"meta-nav\">&rarr;</span>"
+
+#: footer.php:19 inc/customizer.php:316
+msgid "About Design Agency"
+msgstr "关于设计机构"
+
+#: footer.php:22 inc/customizer.php:327
+msgid ""
+"Sed suscipit mauris nec mauris vulputate, a posuere libero congue. Nam "
+"laoreet elit eu erat pulvinar, et efficitur nibh euismod.Nam metus lorem, "
+"hendrerit quis ante eget, lobortis elementum neque. Aliquam in ullamcorper "
+"quam. Integer euismod ligula in mauris vehic."
+msgstr ""
+"桑达suscipit mauris NEC mauris vulputate，一个自由人posuere congue。南"
+"laoreet ELIT欧盟ERAT枕等efficitur NIBH euismod.Nam metus LOREM，hendrerit "
+"QUIS赌注eget，lobortis elementum预期值，也。 Aliquam在ullamcorper华富嘉洛。整"
+"数euismod ligula在mauris vehic。"
+
+#: footer.php:25
+msgid ""
+"Check Appearance >> Customize >> About Design Agency for controlling this "
+"section."
+msgstr "外观检查 > > 自定义 > > 关于设计机构为控制这一节。"
+
+#: footer.php:32
+msgid "Latest Posts"
+msgstr "最新文章"
+
+#: footer.php:52
+msgid "Where to find us"
+msgstr "在哪里找我们"
+
+#: footer.php:60
+msgid "Phone:"
+msgstr "电话："
+
+#: footer.php:64
+msgid "E-mail:"
+msgstr "邮箱："
+
+#: footer.php:68
+msgid "Website:"
+msgstr ""
+"SKT 搬运工和封隔器是一个敏感的 WordPress 主题是多用途，可以用于公务、 商务、 "
+"销售、 着陆页、 产品发布和像当地企业、 小型企业、 启动、 投资组合、 个人的各"
+"种其他网站使用，建筑师，咨询、 建筑、 房地产等。兼容的联系表 7，WooCommerce，"
+"NextGen 画廊，是翻译准备好了。在检查演示 ︰ http://sktthemesdemo.net/"
+"moverspackers/"
+
+#: footer.php:74
+msgid ""
+"Check Appearance >> Customize >> Contact Details for controlling this "
+"section."
+msgstr "外观检查 > > 自定义 > > 联系人详细信息控制这一节。"
+
+#: footer.php:93
+msgid ""
+"Check Appearance >> Customize >> Social Settings for controlling this "
+"section."
+msgstr "外观检查 > > 自定义 > > 社会设置控制这一节。"
+
+#: footer.php:103
+msgid "&copy; 2016"
+msgstr "&copy; 2016"
+
+#: footer.php:103
+msgid "All Rights Reserved"
+msgstr "版权所有"
+
+#: functions.php:36
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: functions.php:50
+msgid "Blog Sidebar"
+msgstr "博客侧边栏"
+
+#: functions.php:51
+msgid "Appears on blog page sidebar"
+msgstr "出现在博客页面侧边栏"
+
+#: functions.php:70
+msgctxt "Pacifico:on or off"
+msgid "on"
+msgstr "打开"
+
+#: functions.php:71
+msgctxt "PT Sans:on or off"
+msgid "on"
+msgstr "打开"
+
+#: functions.php:72
+msgctxt "Oswald:on or off"
+msgid "on"
+msgstr "打开"
+
+#: functions.php:73
+msgctxt "Lobster:on or off"
+msgid "on"
+msgstr "打开"
+
+#: header.php:43
+msgid "Menu"
+msgstr "菜单"
+
+#: header.php:90 header.php:246 index.php:74
+msgid "Read More"
+msgstr "阅读更多"
+
+#: header.php:217 inc/customizer.php:132
+msgid "Why Choose Us"
+msgstr "为什么选择我们?"
+
+#: image.php:21
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"发布时间 <span class=“entry-date”><time class=“entry-date” datetime=“%1$s”>"
+"%2$s</time></span> 于 <a href=“%3$s”>%4$s &times; %5$s</a> 在 <a href=“%6$s” "
+"rel=“gallery”>%7$s</a>"
+
+#: image.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> 上一页"
+
+#: image.php:37
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "下一页 <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr "关于"
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr "关于主题信息"
+
+#: inc/about-themes.php:32
+msgid ""
+"SKT Design Agency is a responsive WordPress theme which can be used for web "
+"design firms or any other corporate, business, agencies, consulting, firms, "
+"shops and any other kind of website purpose. It can also be used for "
+"portfolio, photography, personal and blogging as well. Translation ready "
+"theme it is compatible with qTranslate X for multilingual and WooCommerce "
+"for E-Commerce."
+msgstr ""
+"SKT设计机构是一个负责任的WordPress主题，可用于网页设计公司或任何其他公司，企"
+"业，机构，咨询公司，商店和其他任何类型的网站的目的。它也可以用于组合，摄影，"
+"个人和博客以及。翻译准备的主题是与qTranslate x对于多语言和WooCommerce电子商务"
+"兼容。"
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr "在线演示"
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr "买临"
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr "文档"
+
+#: inc/customizer.php:34
+msgid "Color Scheme"
+msgstr "启用自定义配色方案，选择你自己的配色方案"
+
+#: inc/customizer.php:35
+msgid "More color options in PRO Version"
+msgstr "在 PRO 版的更多颜色选择。"
+
+#: inc/customizer.php:42
+msgid "About Us Section"
+msgstr "关于我们"
+
+#: inc/customizer.php:43
+msgid "Select Page from the dropdown"
+msgstr "从第一节的下拉列表中选择页面"
+
+#: inc/customizer.php:55
+msgid "Select page for about us section"
+msgstr "关于我们部分选择页面"
+
+#: inc/customizer.php:65 inc/customizer.php:123 inc/customizer.php:181
+msgid "Hide This Section"
+msgstr "隐藏滑动部"
+
+#: inc/customizer.php:74
+msgid "Home Featured Boxes"
+msgstr "特色图像区"
+
+#: inc/customizer.php:75
+#, php-format
+msgid ""
+"Featured Image Dimensions : ( 231 X 148 )<br/> Select Featured Image for "
+"these pages <br /> How to set featured image %s"
+msgstr ""
+"特色图片尺寸：（231宽x 148） <br/>选择这些网页特色图片<br />如何设置特色图"
+"片%s"
+
+#: inc/customizer.php:75 inc/customizer.php:133
+msgid "Click Here ?"
+msgstr "点击此处"
+
+#: inc/customizer.php:89 inc/customizer.php:147
+msgid "Select page for box one:"
+msgstr "对于箱中选择一个页面："
+
+#: inc/customizer.php:101 inc/customizer.php:159
+msgid "Select page for box two:"
+msgstr "框中两个选择页："
+
+#: inc/customizer.php:113 inc/customizer.php:171
+msgid "Select page for box three:"
+msgstr "框中三个select页："
+
+#: inc/customizer.php:133
+#, php-format
+msgid ""
+"Featured Image Dimensions : ( 135 X 135 )<br/> Select Featured Image for "
+"these pages <br /> How to set featured image %s"
+msgstr ""
+"特色图片尺寸：（135点¯x135） <br/>选择这些网页特色图片<br />如何设置特色图"
+"片%s"
+
+#: inc/customizer.php:191
+msgid "Slider Settings"
+msgstr "滑块设置"
+
+#: inc/customizer.php:193
+msgid ""
+"Featured Image Size Should be ( 1420x551 ) More slider settings available in "
+"PRO Version."
+msgstr "特色图片大小应在Pro版本可用（1420x551）更多滑块设置。"
+
+#: inc/customizer.php:206
+msgid "Select page for slide one:"
+msgstr "选择第一张幻灯片的页面 ︰"
+
+#: inc/customizer.php:218
+msgid "Select page for slide two:"
+msgstr "选择第二张幻灯片的页面 ︰"
+
+#: inc/customizer.php:230
+msgid "Select page for slide three:"
+msgstr "第三张幻灯片选择页面 ︰"
+
+#: inc/customizer.php:240
+msgid "Hide Slider"
+msgstr "隱藏文字"
+
+#: inc/customizer.php:245
+msgid "Social Settings"
+msgstr "社交设置"
+
+#: inc/customizer.php:246
+msgid "Add social icons link here.<br />More icon available in PRO Version"
+msgstr "添加社交图标链接在这里。 <br />在PRO版本提供更多的图标"
+
+#: inc/customizer.php:256
+msgid "Add facebook link here"
+msgstr "在这里增加facebook链接"
+
+#: inc/customizer.php:266
+msgid "Add twitter link here"
+msgstr "在这里增加twitter链接"
+
+#: inc/customizer.php:275
+msgid "Add google plus link here"
+msgstr "在这里添加google plus链接"
+
+#: inc/customizer.php:284
+msgid "Add linkedin link here"
+msgstr "在这里添加linkedin链接"
+
+#: inc/customizer.php:295 inc/customizer.php:346 inc/customizer.php:408
+msgid "Uncheck this box to show this section"
+msgstr "取消选中此框将显示这一节"
+
+#: inc/customizer.php:299
+msgid "Footer About Design Agency"
+msgstr "页脚关于设计机构"
+
+#: inc/customizer.php:301
+msgid "Manage Footer About Section"
+msgstr "页尾关于我们"
+
+#: inc/customizer.php:321
+msgid "Add title here"
+msgstr "在这里添加您的标题。"
+
+#: inc/customizer.php:331
+msgid "Add about description for footer"
+msgstr "添加有关描述页脚"
+
+#: inc/customizer.php:352
+msgid "Contact Details"
+msgstr "详细联系方式"
+
+#: inc/customizer.php:353
+msgid "Add you contact details here"
+msgstr "添加联系方式"
+
+#: inc/customizer.php:358
+msgid ""
+"First Floor, Rogger John Building 69 Market Street Hampshire, London UK 7925"
+msgstr "一楼，Rogger约翰大厦69市场街汉普郡，英国伦敦7925"
+
+#: inc/customizer.php:363
+msgid "Add contact address here"
+msgstr "添加联系人地址在这里"
+
+#: inc/customizer.php:370
+msgid "+01 23 456 7890"
+msgstr "01 23 456 7890"
+
+#: inc/customizer.php:374
+msgid "Add contact number here."
+msgstr "添加联系号码"
+
+#: inc/customizer.php:384
+msgid "Add your email here"
+msgstr "你的电子邮件"
+
+#: inc/customizer.php:395
+msgid "Add your website url here"
+msgstr "添加您的网站的网址在这里"
+
+#: inc/customizer.php:461
+msgid "Upgrade to PRO Version"
+msgstr "升级成专业版"
+
+#: inc/template-tags.php:22
+msgid "Pingback:"
+msgstr "广播:"
+
+#: inc/template-tags.php:35
+#, php-format
+msgid "%s "
+msgstr "%1$s"
+
+#: inc/template-tags.php:38
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:45
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核."
+
+#: inc/template-tags.php:136
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">发布时间 %1$s</span><span class=\"byline\"> 这 "
+"%2$s</span>"
+
+#: index.php:56
+msgid "Latest News"
+msgstr "最新文章"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "未找到"
+
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布你的第一篇文章了吗？<a href=\"%1$s\">走你</a>."
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "抱歉，没有匹配到搜索的条件，可尝试换一个关键词再搜索试试。"
+
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "下面的文章也挺精彩的，又或许你可以通过搜索试试。"
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "搜索结果: %s"
+
+#: sidebar.php:10
+msgid "Archives"
+msgstr "档案"
+
+#: sidebar.php:16
+msgid "Meta"
+msgstr "管理"
+
+#. Theme Name of the plugin/theme
+msgid "SKT Design Agency"
+msgstr "SKT Design Agency"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.sktthemes.net/shop/skt-design-agency/"
+msgstr "http://www.sktthemes.net/shop/skt-design-agency/"
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Design Agency is a responsive WordPress theme which can be used for web "
+"design firms or any other corporate, business, agencies, consulting, firms, "
+"shops and any other kind of website purpose. It can also be used for "
+"portfolio, photography, personal and blogging as well. This theme is simple, "
+"white, minimal, clean. Translation ready theme it is compatible with "
+"qTranslate X for multilingual and WooCommerce for E-Commerce. Check demo at: "
+"http://sktthemesdemo.net/design-agency/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.sktthemes.net"
+msgstr "http://www.sktthemes.net"
+
+#~ msgid ""
+#~ "SKT Design Agency is a responsive WordPress theme which can be used for "
+#~ "web design firms or any other corporate, business, agencies, consulting, "
+#~ "firms, shops and any other kind of website purpose. It can also be used "
+#~ "for portfolio, photography, personal and blogging as well. Translation "
+#~ "ready theme it is compatible with qTranslate X for multilingual and "
+#~ "WooCommerce for E-Commerce. Check demo at: http://sktthemesdemo.net/"
+#~ "design-agency/"
+#~ msgstr ""
+#~ "SKT设计机构是一个负责任的WordPress主题，可用于网页设计公司或任何其他公司，"
+#~ "企业，机构，咨询公司，商店和其他任何类型的网站的目的。它也可以用于组合，摄"
+#~ "影，个人和博客以及。翻译准备的主题是与qTranslate x对于多语言和WooCommerce"
+#~ "电子商务兼容。检查演示在：http://sktthemesdemo.net/design-agency/"

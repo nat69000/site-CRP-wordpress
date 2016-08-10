@@ -1,0 +1,512 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SKT Design Agency\n"
+"POT-Creation-Date: 2016-06-07 10:17+0530\n"
+"PO-Revision-Date: 2016-06-07 10:17+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;"
+"__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "404 नहीं मिला"
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn..... Don't worry... it happens to the best of us."
+msgstr ""
+"लगता है जैसे आप एक गलत मोड़ ले लिया है... चिंता मत करो... यह हम में से सबसे अच्छा करने के लिए होता है।"
+
+#: archive.php:36 category.php:32 index.php:35 index.php:84 search.php:25
+msgid "Back"
+msgstr "पिच्छें"
+
+#: archive.php:37 category.php:33 index.php:36 index.php:85 search.php:26
+msgid "Next"
+msgstr "अगला"
+
+#: category.php:19
+msgid "Category: "
+msgstr "कैटेगरी:"
+
+#: comments.php:30
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "पर \"%2$s\" एक विचार"
+msgstr[1] ""
+
+#: comments.php:38
+msgid "Comment navigation"
+msgstr "कमेन्ट नेविगेशन"
+
+#: comments.php:39
+msgid "&larr; Older Comments"
+msgstr "&larr; अधिक पुरानी टिप्पणियां"
+
+#: comments.php:40
+msgid "Newer Comments &rarr;"
+msgstr "नई टिप्पणी &rarr;"
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr "टिप्पणियाँ बंद हैं।"
+
+#: content-page.php:18 content-single.php:33 content.php:31 image.php:57
+msgid "Pages:"
+msgstr "सफे:"
+
+#: content-page.php:23 content-single.php:45 image.php:31 image.php:63
+#: inc/template-tags.php:22 inc/template-tags.php:41
+msgid "Edit"
+msgstr "संपादत करो"
+
+#: content.php:16
+msgid ", "
+msgstr ","
+
+#: content.php:24
+msgid "Read More &raquo;"
+msgstr "और अधिक पढ़ें»"
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "जारी रखें पढ़ने <span class=\"meta-nav\">&rarr;</span>"
+
+#: footer.php:19 inc/customizer.php:316
+msgid "About Design Agency"
+msgstr "डिजाइन एजेंसी के बारे में"
+
+#: footer.php:22 inc/customizer.php:327
+msgid ""
+"Sed suscipit mauris nec mauris vulputate, a posuere libero congue. Nam laoreet elit eu "
+"erat pulvinar, et efficitur nibh euismod.Nam metus lorem, hendrerit quis ante eget, "
+"lobortis elementum neque. Aliquam in ullamcorper quam. Integer euismod ligula in mauris "
+"vehic."
+msgstr ""
+"Sed suscipit mauris nec mauris vulputate, एक पूछताछ का libero congue. गुटनिरपेक्ष आंदोलन "
+"laoreet elit यूरोपीय संघ erat pulvinar, एट efficitur nibh euismod. गुटनिरपेक्ष आंदोलन metus "
+"lorem, hendrerit क़ैस पूर्व eget, lobortis elementum neque। Ullamcorper quam में Aliquam. पूर्णांक "
+"euismod ligula mauris vehic में।"
+
+#: footer.php:25
+msgid "Check Appearance >> Customize >> About Design Agency for controlling this section."
+msgstr "उपस्थिति की जाँच करें >> अनुकूलित करें >> एजेंसी के बारे में डिजाइन इस अनुभाग को नियंत्रित करने के लिए।"
+
+#: footer.php:32
+msgid "Latest Posts"
+msgstr "नवीनतम पोस्ट"
+
+#: footer.php:52
+msgid "Where to find us"
+msgstr "जहां हमें खोजने के लिए"
+
+#: footer.php:60
+msgid "Phone:"
+msgstr "टेलीफोन:"
+
+#: footer.php:64
+msgid "E-mail:"
+msgstr "ईमेल:"
+
+#: footer.php:68
+msgid "Website:"
+msgstr "वेबसाइट:"
+
+#: footer.php:74
+msgid "Check Appearance >> Customize >> Contact Details for controlling this section."
+msgstr "उपस्थिति की जाँच करें >> अनुकूलित करें >> संपर्क विवरण इस अनुभाग को नियंत्रित करने के लिए।"
+
+#: footer.php:93
+msgid "Check Appearance >> Customize >> Social Settings for controlling this section."
+msgstr "उपस्थिति की जाँच करें >> अनुकूलित करें >> इस अनुभाग को नियंत्रित करने के लिए सामाजिक सेटिंग्स।"
+
+#: footer.php:103
+msgid "&copy; 2016"
+msgstr "&copy; 2016"
+
+#: footer.php:103
+msgid "All Rights Reserved"
+msgstr "सभी अधिकार सुरक्षित।"
+
+#: functions.php:36
+msgid "Primary Menu"
+msgstr "मुख्य मेनू"
+
+#: functions.php:50
+msgid "Blog Sidebar"
+msgstr "ब्लॉग के साइडबार"
+
+#: functions.php:51
+msgid "Appears on blog page sidebar"
+msgstr "ब्लॉग पृष्ठ के साइडबार पर प्रकट होता है"
+
+#: functions.php:70
+msgctxt "Pacifico:on or off"
+msgid "on"
+msgstr "ऑन"
+
+#: functions.php:71
+msgctxt "PT Sans:on or off"
+msgid "on"
+msgstr "ऑन"
+
+#: functions.php:72
+msgctxt "Oswald:on or off"
+msgid "on"
+msgstr "ऑन"
+
+#: functions.php:73
+msgctxt "Lobster:on or off"
+msgid "on"
+msgstr "ऑन"
+
+#: header.php:43
+msgid "Menu"
+msgstr "मेन्यू"
+
+#: header.php:90 header.php:246 index.php:74
+msgid "Read More"
+msgstr "होर पढ़ो"
+
+#: header.php:217 inc/customizer.php:132
+msgid "Why Choose Us"
+msgstr "हमें क्यों चुनें"
+
+#: image.php:21
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</"
+"time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" rel=\"gallery\">"
+"%7$s</a>"
+msgstr ""
+"प्रकाशित <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</"
+"time></span> को <a href=\"%3$s\">%4$s × %5$s</a> <a href=\"%6$s\" rel=\"gallery\">%7$s</a> "
+"में"
+
+#: image.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">←</span> पिछला"
+
+#: image.php:37
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "अगला <span class=\"meta-nav\">→</span>"
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr "विषय के बारे में"
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr "थीम के बारे में जानकारी"
+
+#: inc/about-themes.php:32
+msgid ""
+"SKT Design Agency is a responsive WordPress theme which can be used for web design firms "
+"or any other corporate, business, agencies, consulting, firms, shops and any other kind of "
+"website purpose. It can also be used for portfolio, photography, personal and blogging as "
+"well. Translation ready theme it is compatible with qTranslate X for multilingual and "
+"WooCommerce for E-Commerce."
+msgstr ""
+"SKT डिजाइन एजेंसी परामर्श, कंपनियों, दुकानें और वेबसाइट के उद्देश्य के किसी भी अन्य प्रकार एक उत्तरदायी "
+"WordPress विषय जो वेब डिजाइन फर्म या किसी भी अन्य कॉर्पोरेट, व्यापार, एजेंसियों, के लिए इस्तेमाल किया "
+"जा सकता है। यह भी पोर्टफोलियो, फोटोग्राफी, निजी और रूप में अच्छी तरह से ब्लॉगिंग के लिए इस्तेमाल किया "
+"जा सकता। अनुवाद तैयार थीम यह है qTranslate X के लिए के साथ संगत बहुभाषी और ई-कॉमर्स के लिए "
+"WooCommerce."
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr "लाइव डेमो"
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr "प्रो खरीदें"
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr "दस्तावेजीकरण"
+
+#: inc/customizer.php:34
+msgid "Color Scheme"
+msgstr "रंग स्कीम"
+
+#: inc/customizer.php:35
+msgid "More color options in PRO Version"
+msgstr "प्रो संस्करण में अधिक रंग विकल्प।"
+
+#: inc/customizer.php:42
+msgid "About Us Section"
+msgstr "हमारे बारे में अनुभाग"
+
+#: inc/customizer.php:43
+msgid "Select Page from the dropdown"
+msgstr "पहला खंड के लिए ड्रॉप-डाउन से पृष्ठ का चयन करें"
+
+#: inc/customizer.php:55
+msgid "Select page for about us section"
+msgstr "हमारे बारे में अनुभाग के लिए चयन करें पृष"
+
+#: inc/customizer.php:65 inc/customizer.php:123 inc/customizer.php:181
+msgid "Hide This Section"
+msgstr "मिटायें स्लाइडर धारा"
+
+#: inc/customizer.php:74
+msgid "Home Featured Boxes"
+msgstr "घर बक्से विशेष रुप से प्रदर्शित"
+
+#: inc/customizer.php:75
+#, php-format
+msgid ""
+"Featured Image Dimensions : ( 231 X 148 )<br/> Select Featured Image for these pages <br /"
+"> How to set featured image %s"
+msgstr ""
+"विशेष रुप से प्रदर्शित छवि आयाम: (231 X 148)<br>विशेष रुप से प्रदर्शित छवि के लिए इन पृष्ठों का चयन "
+"करें<br>विशेष रुप से प्रदर्शित छवि %s सेट करने के लिए कैसे"
+
+#: inc/customizer.php:75 inc/customizer.php:133
+msgid "Click Here ?"
+msgstr "यहां क्लिक करें"
+
+#: inc/customizer.php:89 inc/customizer.php:147
+msgid "Select page for box one:"
+msgstr "एक बॉक्स के लिए पृष्ठ का चयन करें:"
+
+#: inc/customizer.php:101 inc/customizer.php:159
+msgid "Select page for box two:"
+msgstr "बॉक्स दो के लिए पेज का चयन करें:"
+
+#: inc/customizer.php:113 inc/customizer.php:171
+msgid "Select page for box three:"
+msgstr "तीन बॉक्स के लिए का चयन करें पृष्ठ:"
+
+#: inc/customizer.php:133
+#, php-format
+msgid ""
+"Featured Image Dimensions : ( 135 X 135 )<br/> Select Featured Image for these pages <br /"
+"> How to set featured image %s"
+msgstr ""
+"विशेष रुप से छवि आयाम: (135 x 135) <br/> विशेष रुप से छवि का चयन इन पृष्ठों के लिए <br /> विशेष रुप से "
+"छवि स्थापित करने के लिए कैसे %s"
+
+#: inc/customizer.php:191
+msgid "Slider Settings"
+msgstr "स्लाइडर सेटिंग्स"
+
+#: inc/customizer.php:193
+msgid ""
+"Featured Image Size Should be ( 1420x551 ) More slider settings available in PRO Version."
+msgstr "विशेष रुप से छवि आकार का होना चाहिए (1420x551) अधिक स्लाइडर सेटिंग्स प्रो संस्करण में उपलब्ध है।"
+
+#: inc/customizer.php:206
+msgid "Select page for slide one:"
+msgstr "एक स्लाइड के लिए पृष्ठ का चयन करें:"
+
+#: inc/customizer.php:218
+msgid "Select page for slide two:"
+msgstr "दो स्लाइड के लिए पृष्ठ का चयन करें:"
+
+#: inc/customizer.php:230
+msgid "Select page for slide three:"
+msgstr "तीन स्लाइड के लिए का चयन करें पृष्ठ:"
+
+#: inc/customizer.php:240
+msgid "Hide Slider"
+msgstr "स्लाइडर छुपाएँ"
+
+#: inc/customizer.php:245
+msgid "Social Settings"
+msgstr "सामाजिक सेटिंग्स"
+
+#: inc/customizer.php:246
+msgid "Add social icons link here.<br />More icon available in PRO Version"
+msgstr "सामाजिक प्रतीक यहाँ लिंक जोड़ें।<br>अधिक चिह्न प्रो संस्करण में उपलब्ध"
+
+#: inc/customizer.php:256
+msgid "Add facebook link here"
+msgstr "यहाँ facebook लिंक जोड़ें"
+
+#: inc/customizer.php:266
+msgid "Add twitter link here"
+msgstr "चहचहाना लिंक यहाँ जोड़ें"
+
+#: inc/customizer.php:275
+msgid "Add google plus link here"
+msgstr "जोड़ें गूगल प्लस यहाँ लिंक"
+
+#: inc/customizer.php:284
+msgid "Add linkedin link here"
+msgstr "Linkedin लिंक यहाँ जोड़ें"
+
+#: inc/customizer.php:295 inc/customizer.php:346 inc/customizer.php:408
+msgid "Uncheck this box to show this section"
+msgstr "इस अनुभाग को दिखाने के लिए इस बॉक्स को अनचेक करें"
+
+#: inc/customizer.php:299
+msgid "Footer About Design Agency"
+msgstr "पाद बारे में डिजाइन एजेंसी"
+
+#: inc/customizer.php:301
+msgid "Manage Footer About Section"
+msgstr "पाद बारे में डिजाइन एजेंसी"
+
+#: inc/customizer.php:321
+msgid "Add title here"
+msgstr "यहाँ शीर्षक जोड़ें"
+
+#: inc/customizer.php:331
+msgid "Add about description for footer"
+msgstr "पाद लेख के लिए विवरण के बारे में जोड़ें"
+
+#: inc/customizer.php:352
+msgid "Contact Details"
+msgstr "सम्पर्क करने का विवरण"
+
+#: inc/customizer.php:353
+msgid "Add you contact details here"
+msgstr "आप विवरण यहाँ संपर्क जोड़ें"
+
+#: inc/customizer.php:358
+msgid "First Floor, Rogger John Building 69 Market Street Hampshire, London UK 7925"
+msgstr "पहली मंजिल, Rogger जॉन इमारत 69 मार्केट स्ट्रीट हैम्पशायर, लंदन ब्रिटेन 7925"
+
+#: inc/customizer.php:363
+msgid "Add contact address here"
+msgstr "संपर्क पते यहाँ जोड़ें"
+
+#: inc/customizer.php:370
+msgid "+01 23 456 7890"
+msgstr "+01 23 456 7890"
+
+#: inc/customizer.php:374
+msgid "Add contact number here."
+msgstr "संपर्क नंबर यहाँ जोड़ें।"
+
+#: inc/customizer.php:384
+msgid "Add your email here"
+msgstr "अपने ईमेल यहाँ जोड़ें"
+
+#: inc/customizer.php:395
+msgid "Add your website url here"
+msgstr "यहाँ अपनी वेबसाइट url जोड़ें"
+
+#: inc/customizer.php:461
+msgid "Upgrade to PRO Version"
+msgstr "समर्थक संस्करण में नवीनीकृत"
+
+#: inc/template-tags.php:22
+msgid "Pingback:"
+msgstr "पिंगबैक:"
+
+#: inc/template-tags.php:35
+#, php-format
+msgid "%s "
+msgstr "1 S  1एस"
+
+#: inc/template-tags.php:38
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "1 S  1एस"
+
+#: inc/template-tags.php:45
+msgid "Your comment is awaiting moderation."
+msgstr "आपकी टिप्पणी संतुलित किए जाने की प्रतीक्षा कर रही है।"
+
+#: inc/template-tags.php:136
+#, php-format
+msgid "<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">%1$s प्रकाशित</span> <span class=\"byline\">%2$s द्वारा</span>"
+
+#: index.php:56
+msgid "Latest News"
+msgstr "ताज़ा खबर"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "किश नेईं लब्भा"
+
+#: no-results.php:20
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "अपनी पहली पोस्ट प्रकाशित करने के लिए तैयार हो? <a href=\"%1$s\">यहाँ शुरू हो जाओ</a> ।"
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some different "
+"keywords."
+msgstr ""
+"माफ़ करें, लेकिन आपके खोज मानक से कुछ भी मिलान नहीं कर रहा है। कृपया कुछ अलग कीवर्ड के साथ फ़िर से कोशिश "
+"करें।"
+
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "यह हम नहीं पा सकते हैं तुम्हारे लिए क्या देख रहे हैं लगता है। शायद मदद कर सकते हैं खोज।"
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "\"%s\" के लिए खोज परिणाम"
+
+#: sidebar.php:10
+msgid "Archives"
+msgstr "विकिपीडिया:अवरोधित सदस्य"
+
+#: sidebar.php:16
+msgid "Meta"
+msgstr "मेटा"
+
+#. Theme Name of the plugin/theme
+msgid "SKT Design Agency"
+msgstr "SKT Design Agency"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.sktthemes.net/shop/skt-design-agency/"
+msgstr "http://www.sktthemes.net/shop/skt-design-agency/"
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Design Agency is a responsive WordPress theme which can be used for web design firms "
+"or any other corporate, business, agencies, consulting, firms, shops and any other kind of "
+"website purpose. It can also be used for portfolio, photography, personal and blogging as "
+"well. This theme is simple, white, minimal, clean. Translation ready theme it is "
+"compatible with qTranslate X for multilingual and WooCommerce for E-Commerce. Check demo "
+"at: http://sktthemesdemo.net/design-agency/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.sktthemes.net"
+msgstr "http://www.sktthemes.net"
+
+#~ msgid ""
+#~ "SKT Design Agency is a responsive WordPress theme which can be used for web design "
+#~ "firms or any other corporate, business, agencies, consulting, firms, shops and any "
+#~ "other kind of website purpose. It can also be used for portfolio, photography, personal "
+#~ "and blogging as well. Translation ready theme it is compatible with qTranslate X for "
+#~ "multilingual and WooCommerce for E-Commerce. Check demo at: http://sktthemesdemo.net/"
+#~ "design-agency/"
+#~ msgstr ""
+#~ "SKT डिजाइन एजेंसी है जो वेब डिजाइन फर्मों या किसी अन्य कॉर्पोरेट, व्यापार, एजेंसियों, परामर्श, "
+#~ "कंपनियों, दुकानें और वेबसाइट प्रयोजन के किसी भी अन्य प्रकार के लिए इस्तेमाल किया जा सकता है कि एक "
+#~ "संवेदनशील WordPress विषय है। यह भी पोर्टफोलियो, फोटोग्राफी, व्यक्तिगत और साथ ही ब्लॉगिंग के लिए "
+#~ "इस्तेमाल किया जा सकता है। अनुवाद तैयार विषय आईटी और ई-कॉमर्स के लिए बहुभाषी लिए qTranslate एक्स "
+#~ "WooCommerce के साथ संगत है। http://sktthemesdemo.net/design-agency/: पर डेमो की जाँच"

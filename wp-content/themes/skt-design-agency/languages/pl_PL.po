@@ -1,0 +1,533 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SKT Design Agency\n"
+"POT-Creation-Date: 2016-06-07 10:44+0530\n"
+"PO-Revision-Date: 2016-06-07 10:44+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "Błąd 404 - nie znaleziono!"
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn..... Don't worry... it happens to the "
+"best of us."
+msgstr ""
+"Wygląda na to, miały złą drogę... Nie martw się... zdarza się najlepszym z "
+"nas."
+
+#: archive.php:36 category.php:32 index.php:35 index.php:84 search.php:25
+msgid "Back"
+msgstr "Wstecz"
+
+#: archive.php:37 category.php:33 index.php:36 index.php:85 search.php:26
+msgid "Next"
+msgstr "Następny"
+
+#: category.php:19
+msgid "Category: "
+msgstr "Kategoria:"
+
+#: comments.php:30
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Jedna odpowiedź do &ldquo;%2$s&rdquo;"
+msgstr[1] ""
+msgstr[2] ""
+
+#: comments.php:38
+msgid "Comment navigation"
+msgstr "Nawigacja komentarzy"
+
+#: comments.php:39
+msgid "&larr; Older Comments"
+msgstr "&larr; Starsze komentarze"
+
+#: comments.php:40
+msgid "Newer Comments &rarr;"
+msgstr "Nowsze komentarze &rarr;"
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr "Komentarze są wyłączone."
+
+#: content-page.php:18 content-single.php:33 content.php:31 image.php:57
+msgid "Pages:"
+msgstr "Strony:"
+
+#: content-page.php:23 content-single.php:45 image.php:31 image.php:63
+#: inc/template-tags.php:22 inc/template-tags.php:41
+msgid "Edit"
+msgstr "Edycja"
+
+#: content.php:16
+msgid ", "
+msgstr ","
+
+#: content.php:24
+msgid "Read More &raquo;"
+msgstr "Czytaj więcej"
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Czytaj dalej <span class=\"meta-nav\">&rarr;</span>"
+
+#: footer.php:19 inc/customizer.php:316
+msgid "About Design Agency"
+msgstr "O projekt Agencja"
+
+#: footer.php:22 inc/customizer.php:327
+msgid ""
+"Sed suscipit mauris nec mauris vulputate, a posuere libero congue. Nam "
+"laoreet elit eu erat pulvinar, et efficitur nibh euismod.Nam metus lorem, "
+"hendrerit quis ante eget, lobortis elementum neque. Aliquam in ullamcorper "
+"quam. Integer euismod ligula in mauris vehic."
+msgstr ""
+"SED suscipit mauris nec mauris vulputate, posuere libero congue. Nam laoreet "
+"elit UE erat pulvinar, et efficitur nibh euismod. Nam metus lorem, hendrerit "
+"quis ante eget, lobortis elementum neque. Aliquam w ullamcorper quam. Liczba "
+"całkowita euismod ligula w mauris wy³±czenie."
+
+#: footer.php:25
+msgid ""
+"Check Appearance >> Customize >> About Design Agency for controlling this "
+"section."
+msgstr "Sprawdź wygląd >> Dostosuj >> Design Agencja kontroli w tej sekcji."
+
+#: footer.php:32
+msgid "Latest Posts"
+msgstr "Najnowsze wpisy"
+
+#: footer.php:52
+msgid "Where to find us"
+msgstr "Gdzie nas znaleźć"
+
+#: footer.php:60
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: footer.php:64
+msgid "E-mail:"
+msgstr "E-mail:"
+
+#: footer.php:68
+msgid "Website:"
+msgstr "Stronie internetowej:"
+
+#: footer.php:74
+msgid ""
+"Check Appearance >> Customize >> Contact Details for controlling this "
+"section."
+msgstr "Sprawdź wygląd >> Dostosuj >> kontaktowe do kontrolowania tej sekcji."
+
+#: footer.php:93
+msgid ""
+"Check Appearance >> Customize >> Social Settings for controlling this "
+"section."
+msgstr ""
+"Sprawdź wygląd >> Dostosuj >> towarzyskich do kontrolowania tej sekcji."
+
+#: footer.php:103
+msgid "&copy; 2016"
+msgstr "&copy; 2016"
+
+#: footer.php:103
+msgid "All Rights Reserved"
+msgstr "Wszelkie prawa zastrzeżone"
+
+#: functions.php:36
+msgid "Primary Menu"
+msgstr "Główne menu (primary)"
+
+#: functions.php:50
+msgid "Blog Sidebar"
+msgstr "Panel boczny bloga"
+
+#: functions.php:51
+msgid "Appears on blog page sidebar"
+msgstr "Pojawia się na stronie bocznej bloga"
+
+#: functions.php:70
+msgctxt "Pacifico:on or off"
+msgid "on"
+msgstr "dnia"
+
+#: functions.php:71
+msgctxt "PT Sans:on or off"
+msgid "on"
+msgstr "dnia"
+
+#: functions.php:72
+msgctxt "Oswald:on or off"
+msgid "on"
+msgstr "dnia"
+
+#: functions.php:73
+msgctxt "Lobster:on or off"
+msgid "on"
+msgstr "dnia"
+
+#: header.php:43
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:90 header.php:246 index.php:74
+msgid "Read More"
+msgstr "Czytaj więcej"
+
+#: header.php:217 inc/customizer.php:132
+msgid "Why Choose Us"
+msgstr "Dlaczego właśnie my?"
+
+#: image.php:21
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"Opublikowane <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> o  <a href=\"%3$s\">%4$s &times; %5$s</a> w <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+#: image.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Poprzedni"
+
+#: image.php:37
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Następne <span class=„meta-nav”>&rarr;</span>"
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr "o tematu"
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr "Dotyczące tematu Info"
+
+#: inc/about-themes.php:32
+msgid ""
+"SKT Design Agency is a responsive WordPress theme which can be used for web "
+"design firms or any other corporate, business, agencies, consulting, firms, "
+"shops and any other kind of website purpose. It can also be used for "
+"portfolio, photography, personal and blogging as well. Translation ready "
+"theme it is compatible with qTranslate X for multilingual and WooCommerce "
+"for E-Commerce."
+msgstr ""
+"SKT Design Agencja jest responsive temat WordPress, który może być używany "
+"dla firm projektowanie stron internetowych lub innych przedsiębiorstw, "
+"biznes, agencje, doradztwo, firm, sklepów i jakiejkolwiek innej strony "
+"internetowej celem. Może również służyć do portfolio, Fotografia, osobistych "
+"blogów, jak również. Tłumaczenie jest kompatybilny z qTranslate X dla gotowy "
+"motyw wielojęzycznych i WooCommerce dla E-Commerce."
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr "Prezentacja na żywo"
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr "Kupię Pro"
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr "Dokumentacja"
+
+#: inc/customizer.php:34
+msgid "Color Scheme"
+msgstr "Schemat kolorów"
+
+#: inc/customizer.php:35
+msgid "More color options in PRO Version"
+msgstr "Więcej opcji kolorów w wersji PRO."
+
+#: inc/customizer.php:42
+msgid "About Us Section"
+msgstr "Sekcja o nas"
+
+#: inc/customizer.php:43
+msgid "Select Page from the dropdown"
+msgstr "Wybierz stronę z menu rozwijanego dla pierwszej sekcji"
+
+#: inc/customizer.php:55
+msgid "Select page for about us section"
+msgstr "Wybierz stronę o nas sekcji"
+
+#: inc/customizer.php:65 inc/customizer.php:123 inc/customizer.php:181
+msgid "Hide This Section"
+msgstr "Sprawdź, aby ukryć stronę sekcji 1"
+
+#: inc/customizer.php:74
+msgid "Home Featured Boxes"
+msgstr "Strona główna Polecane pola"
+
+#: inc/customizer.php:75
+#, php-format
+msgid ""
+"Featured Image Dimensions : ( 231 X 148 )<br/> Select Featured Image for "
+"these pages <br /> How to set featured image %s"
+msgstr ""
+"Wymiary obrazu: (231 X 148)<br>Wybierz opcję Featured Image dla tych "
+"stron<br>Jak ustawić Rekomendowane obraz %s"
+
+#: inc/customizer.php:75 inc/customizer.php:133
+msgid "Click Here ?"
+msgstr "Kliknij tutaj"
+
+#: inc/customizer.php:89 inc/customizer.php:147
+msgid "Select page for box one:"
+msgstr "Wybierz stronę dla pola:"
+
+#: inc/customizer.php:101 inc/customizer.php:159
+msgid "Select page for box two:"
+msgstr "Wybierz stronę pole, dwa:"
+
+#: inc/customizer.php:113 inc/customizer.php:171
+msgid "Select page for box three:"
+msgstr "Wybierz stronę pole trzy:"
+
+#: inc/customizer.php:133
+#, php-format
+msgid ""
+"Featured Image Dimensions : ( 135 X 135 )<br/> Select Featured Image for "
+"these pages <br /> How to set featured image %s"
+msgstr ""
+"Wymiary obrazu: (135 X 135)<br>Wybierz opcję Featured Image dla tych "
+"stron<br>Jak ustawić Rekomendowane obraz %s"
+
+#: inc/customizer.php:191
+msgid "Slider Settings"
+msgstr "Ustawienia pokazu slajdów"
+
+#: inc/customizer.php:193
+msgid ""
+"Featured Image Size Should be ( 1420x551 ) More slider settings available in "
+"PRO Version."
+msgstr ""
+"Rekomendowane obrazu rozmiar powinien być (1420 x 551) więcej suwak "
+"ustawienia dostępne w wersji PRO."
+
+#: inc/customizer.php:206
+msgid "Select page for slide one:"
+msgstr "Wybierz stronę do slajdów, jeden:"
+
+#: inc/customizer.php:218
+msgid "Select page for slide two:"
+msgstr "Wybierz stronę do slajdów, dwa:"
+
+#: inc/customizer.php:230
+msgid "Select page for slide three:"
+msgstr "Wybierz stronę dla slajdów trzy:"
+
+#: inc/customizer.php:240
+msgid "Hide Slider"
+msgstr "Ukryj suwak"
+
+#: inc/customizer.php:245
+msgid "Social Settings"
+msgstr "Media społecznościowe"
+
+#: inc/customizer.php:246
+msgid "Add social icons link here.<br />More icon available in PRO Version"
+msgstr ""
+"Dodać, że społeczne ikony link tutaj.<br>Dostępna w wersji PRO ikonę Więcej"
+
+#: inc/customizer.php:256
+msgid "Add facebook link here"
+msgstr "Link do Facebooka"
+
+#: inc/customizer.php:266
+msgid "Add twitter link here"
+msgstr "Dodaj link twitter tutaj"
+
+#: inc/customizer.php:275
+msgid "Add google plus link here"
+msgstr "Dodaj Google Plus tutaj link"
+
+#: inc/customizer.php:284
+msgid "Add linkedin link here"
+msgstr "Dodaj linkedin link tutaj"
+
+#: inc/customizer.php:295 inc/customizer.php:346 inc/customizer.php:408
+msgid "Uncheck this box to show this section"
+msgstr "Odznacz to pole, aby pokazać w tej sekcji"
+
+#: inc/customizer.php:299
+msgid "Footer About Design Agency"
+msgstr "Stopki o Design Agencja"
+
+#: inc/customizer.php:301
+msgid "Manage Footer About Section"
+msgstr "Zarządzanie stopki o przekroju"
+
+#: inc/customizer.php:321
+msgid "Add title here"
+msgstr "Dodaj tytuł tutaj"
+
+#: inc/customizer.php:331
+msgid "Add about description for footer"
+msgstr "Dodać około opis Stopka"
+
+#: inc/customizer.php:352
+msgid "Contact Details"
+msgstr "Dane kontaktowe"
+
+#: inc/customizer.php:353
+msgid "Add you contact details here"
+msgstr "Dodać kontakt Szczegóły tutaj"
+
+#: inc/customizer.php:358
+msgid ""
+"First Floor, Rogger John Building 69 Market Street Hampshire, London UK 7925"
+msgstr ""
+"Pierwsze piętro, budynek John Rogger Hampshire 69 Market Street, London UK "
+"7925"
+
+#: inc/customizer.php:363
+msgid "Add contact address here"
+msgstr "Dodaj adres kontaktowy tutaj"
+
+#: inc/customizer.php:370
+msgid "+01 23 456 7890"
+msgstr "+ 01 23 456 7890"
+
+#: inc/customizer.php:374
+msgid "Add contact number here."
+msgstr "Dodaj numer kontaktowy tutaj."
+
+#: inc/customizer.php:384
+msgid "Add your email here"
+msgstr "Dodaj adres e-mail tutaj"
+
+#: inc/customizer.php:395
+msgid "Add your website url here"
+msgstr "Dodać adres url swojej witryny tutaj"
+
+#: inc/customizer.php:461
+msgid "Upgrade to PRO Version"
+msgstr "Uaktualnienie do wersji PRO"
+
+#: inc/template-tags.php:22
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:35
+#, php-format
+msgid "%s "
+msgstr "Autor: %s"
+
+#: inc/template-tags.php:38
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:45
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz czeka na zatwierdzenie."
+
+#: inc/template-tags.php:136
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">Opublikowane %1$s</span><span class=\"byline\"> "
+"przez %2$s</span>"
+
+#: index.php:56
+msgid "Latest News"
+msgstr "Ostatnie Wiadomości"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "Niczego nie znaleziono"
+
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gotowy opublikować pierwszy wpis? <a href=“%1$s”>Kliknij tutaj</a>."
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Przykro nam, ale niczego nie znaleziono. Spróbuj innych słów kluczowych."
+
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Wygląda na to, że nie możemy znaleźć tego, czego szukałeś. Być może "
+"wyszukiwanie pomoże."
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Wyniki wyszukiwania dla: %s"
+
+#: sidebar.php:10
+msgid "Archives"
+msgstr "Archiwa"
+
+#: sidebar.php:16
+msgid "Meta"
+msgstr "Meta"
+
+#. Theme Name of the plugin/theme
+msgid "SKT Design Agency"
+msgstr "SKT Design Agency"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.sktthemes.net/shop/skt-design-agency/"
+msgstr "http://www.sktthemes.NET/Shop/SKT-Design-Agency/"
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Design Agency is a responsive WordPress theme which can be used for web "
+"design firms or any other corporate, business, agencies, consulting, firms, "
+"shops and any other kind of website purpose. It can also be used for "
+"portfolio, photography, personal and blogging as well. This theme is simple, "
+"white, minimal, clean. Translation ready theme it is compatible with "
+"qTranslate X for multilingual and WooCommerce for E-Commerce. Check demo at: "
+"http://sktthemesdemo.net/design-agency/"
+msgstr ""
+"SKT Design Agencja jest responsive temat WordPress, który może być używany "
+"dla firm projektowanie stron internetowych lub innych przedsiębiorstw, "
+"biznes, agencje, doradztwo, firm, sklepów i jakiejkolwiek innej strony "
+"internetowej celem. Może również służyć do portfolio, Fotografia, osobistych "
+"blogów, jak również. Ten temat jest biały, minimalny, proste, czyste. "
+"Tłumaczenie jest kompatybilny z qTranslate X dla gotowy motyw "
+"wielojęzycznych i WooCommerce dla E-Commerce. Sprawdź demo na: http://"
+"sktthemesdemo.net/design-agency/"
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.sktthemes.net"
+msgstr "http://www.sktthemes.NET"

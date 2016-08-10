@@ -1,0 +1,534 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SKT Design Agency\n"
+"POT-Creation-Date: 2016-06-07 10:16+0530\n"
+"PO-Revision-Date: 2016-06-07 10:17+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "404 דף לא נמצא"
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn..... Don't worry... it happens to the "
+"best of us."
+msgstr "נראה כאילו לקחתם פנייה לא נכונה... . אל תדאג. זה קורה לטובים מאיתנו."
+
+#: archive.php:36 category.php:32 index.php:35 index.php:84 search.php:25
+msgid "Back"
+msgstr "חזור"
+
+#: archive.php:37 category.php:33 index.php:36 index.php:85 search.php:26
+msgid "Next"
+msgstr "הבא"
+
+#: category.php:19
+msgid "Category: "
+msgstr "קטגוריה:"
+
+#: comments.php:30
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "תגובה אחת על הפוסט &ldquo;%2$s&rdquo;"
+msgstr[1] ""
+
+#: comments.php:38
+msgid "Comment navigation"
+msgstr "ניווט בתגובות"
+
+#: comments.php:39
+msgid "&larr; Older Comments"
+msgstr "‏&larr; תגובות ישנות יותר"
+
+#: comments.php:40
+msgid "Newer Comments &rarr;"
+msgstr "תגובות חדשות יותר &rarr;"
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr "אזור התגובות סגור"
+
+#: content-page.php:18 content-single.php:33 content.php:31 image.php:57
+msgid "Pages:"
+msgstr "עמודים:"
+
+#: content-page.php:23 content-single.php:45 image.php:31 image.php:63
+#: inc/template-tags.php:22 inc/template-tags.php:41
+msgid "Edit"
+msgstr "ערוך"
+
+#: content.php:16
+msgid ", "
+msgstr ","
+
+#: content.php:24
+msgid "Read More &raquo;"
+msgstr "קרא\\י עוד &raquo;"
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "המשך לקרוא <span class=\"meta-nav\">&rarr;</span>"
+
+#: footer.php:19 inc/customizer.php:316
+msgid "About Design Agency"
+msgstr "על סוכנות עיצוב"
+
+#: footer.php:22 inc/customizer.php:327
+msgid ""
+"Sed suscipit mauris nec mauris vulputate, a posuere libero congue. Nam "
+"laoreet elit eu erat pulvinar, et efficitur nibh euismod.Nam metus lorem, "
+"hendrerit quis ante eget, lobortis elementum neque. Aliquam in ullamcorper "
+"quam. Integer euismod ligula in mauris vehic."
+msgstr ""
+"Sed suscipit mauris nec mauris vulputate, congue פנוי posuere. נאם laoreet "
+"עילית האיחוד האירופי erat pulvinar, et efficitur nibh euismod. נאם metus "
+"לוראם, hendrerit quis ההימור eget, lobortis elementum neque... השאירו בקוואם "
+"ullamcorper. מספר שלם ligula euismod ב mauris vehic."
+
+#: footer.php:25
+msgid ""
+"Check Appearance >> Customize >> About Design Agency for controlling this "
+"section."
+msgstr "לבדוק את המראה >> התאמה אישית של >> על סוכנות עיצוב לפיקוח על סעיף זה."
+
+#: footer.php:32
+msgid "Latest Posts"
+msgstr "פוסטים אחרונים"
+
+#: footer.php:52
+msgid "Where to find us"
+msgstr "איפה למצוא אותנו"
+
+#: footer.php:60
+msgid "Phone:"
+msgstr "טלפון:"
+
+#: footer.php:64
+msgid "E-mail:"
+msgstr "אימייל:"
+
+#: footer.php:68
+msgid "Website:"
+msgstr ""
+"SKT עליות פקרס הוא נושא WordPress מגיב אשר רב תכליתי, יכול לשמש עבור חברות, "
+"עסקים, מכירות, נחיתה דף, השקת המוצר ושימוש שונים אחרים באתר כמו עסקים "
+"מקומיים, עסקים קטנים, הפעלה, תיק עבודות, אישי, אדריכל, יעוץ, בניה, נדל ן "
+"ועוד. תואם עם פרטי התקשרות 7, WooCommerce, NextGen גלריה, תרגום מוכן. הסימון "
+"הדגמה ב: http://sktthemesdemo.net/moverspackers/"
+
+#: footer.php:74
+msgid ""
+"Check Appearance >> Customize >> Contact Details for controlling this "
+"section."
+msgstr "לבדוק את המראה >> התאמה אישית >> פרטי קשר לפיקוח על סעיף זה."
+
+#: footer.php:93
+msgid ""
+"Check Appearance >> Customize >> Social Settings for controlling this "
+"section."
+msgstr "לבדוק את המראה >> התאמה אישית >> הגדרות חברתיות לפיקוח על סעיף זה."
+
+#: footer.php:103
+msgid "&copy; 2016"
+msgstr "&copy;2016 "
+
+#: footer.php:103
+msgid "All Rights Reserved"
+msgstr "כל הזכויות שמורות."
+
+#: functions.php:36
+msgid "Primary Menu"
+msgstr "תפריט ראשי"
+
+#: functions.php:50
+msgid "Blog Sidebar"
+msgstr "סרגל צדדי של הבלוג"
+
+#: functions.php:51
+msgid "Appears on blog page sidebar"
+msgstr "מופיע בסרגל הצידי דף בלוג"
+
+#: functions.php:70
+msgctxt "Pacifico:on or off"
+msgid "on"
+msgstr "ב"
+
+#: functions.php:71
+msgctxt "PT Sans:on or off"
+msgid "on"
+msgstr "ב"
+
+#: functions.php:72
+msgctxt "Oswald:on or off"
+msgid "on"
+msgstr "ב"
+
+#: functions.php:73
+msgctxt "Lobster:on or off"
+msgid "on"
+msgstr "ב"
+
+#: header.php:43
+msgid "Menu"
+msgstr "תפריט"
+
+#: header.php:90 header.php:246 index.php:74
+msgid "Read More"
+msgstr "קרא עוד"
+
+#: header.php:217 inc/customizer.php:132
+msgid "Why Choose Us"
+msgstr "? למה לבחור בנו"
+
+#: image.php:21
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"פורסם ב<span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s"
+"\">%2$s</time></span> ב <a href=\"%3$s\">%4$s &times; %5$s</a> בעמוד <a href="
+"\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+#: image.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "‏<span class=“meta-nav”>&larr;</span> הקודם"
+
+#: image.php:37
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "הבא <span class=“meta-nav”>&rarr;</span>"
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr "אודות התבנית"
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr "לגבי נושא פרטי"
+
+#: inc/about-themes.php:32
+msgid ""
+"SKT Design Agency is a responsive WordPress theme which can be used for web "
+"design firms or any other corporate, business, agencies, consulting, firms, "
+"shops and any other kind of website purpose. It can also be used for "
+"portfolio, photography, personal and blogging as well. Translation ready "
+"theme it is compatible with qTranslate X for multilingual and WooCommerce "
+"for E-Commerce."
+msgstr ""
+"סוכנות עיצוב SKT הוא נושא וורדפרס מגיב אשר יכול לשמש עבור חברות עיצוב web או "
+"תאגיד, עסקי, סוכנויות אחרות, ייעוץ, חברות, חנויות, כל סוג אחר של אתר המטרה. "
+"זה יכול לשמש גם עבור תיק, לצילום, אישי, כמו גם לבלוגים. תרגום נושא מוכן הוא "
+"תואם qTranslate X עבור רב לשוני, WooCommerce של מסחר אלקטרוני."
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr "הדגמה חיה"
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr "לקנות Pro"
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr "הצג הכל"
+
+#: inc/customizer.php:34
+msgid "Color Scheme"
+msgstr "סכמת צבעים"
+
+#: inc/customizer.php:35
+msgid "More color options in PRO Version"
+msgstr "אפשרויות צבע יותר בגרסה PRO."
+
+#: inc/customizer.php:42
+msgid "About Us Section"
+msgstr "אזור אודות"
+
+#: inc/customizer.php:43
+msgid "Select Page from the dropdown"
+msgstr "בחר דף מהרשימה הנפתחת עבור המקטע הראשון"
+
+#: inc/customizer.php:55
+msgid "Select page for about us section"
+msgstr "בחר דף עבור המקטע"
+
+#: inc/customizer.php:65 inc/customizer.php:123 inc/customizer.php:181
+msgid "Hide This Section"
+msgstr "להסתיר את המחוון סעיף"
+
+#: inc/customizer.php:74
+msgid "Home Featured Boxes"
+msgstr "בית נבחרים תיבות"
+
+#: inc/customizer.php:75
+#, php-format
+msgid ""
+"Featured Image Dimensions : ( 231 X 148 )<br/> Select Featured Image for "
+"these pages <br /> How to set featured image %s"
+msgstr ""
+"מידות התמונה נבחרים: (231 X 148)<br>בחר תמונה מוצעים עבור הדפים האלה<br>כיצד "
+"להגדיר את התמונה נבחרים %s"
+
+#: inc/customizer.php:75 inc/customizer.php:133
+msgid "Click Here ?"
+msgstr "לחץ כאן"
+
+#: inc/customizer.php:89 inc/customizer.php:147
+msgid "Select page for box one:"
+msgstr "בחר דף עבור תיבה אחת:"
+
+#: inc/customizer.php:101 inc/customizer.php:159
+msgid "Select page for box two:"
+msgstr "בחר דף עבור תיבת 2:"
+
+#: inc/customizer.php:113 inc/customizer.php:171
+msgid "Select page for box three:"
+msgstr "בחר עמוד עבור תיבת שלושה:"
+
+#: inc/customizer.php:133
+#, php-format
+msgid ""
+"Featured Image Dimensions : ( 135 X 135 )<br/> Select Featured Image for "
+"these pages <br /> How to set featured image %s"
+msgstr ""
+"מידות התמונה נבחרים: (135 X 135)<br>בחר תמונה מוצעים עבור הדפים האלה<br>כיצד "
+"להגדיר את התמונה נבחרים %s"
+
+#: inc/customizer.php:191
+msgid "Slider Settings"
+msgstr "הגדרות סליידר"
+
+#: inc/customizer.php:193
+msgid ""
+"Featured Image Size Should be ( 1420x551 ) More slider settings available in "
+"PRO Version."
+msgstr ""
+"גודל התמונה נבחרים צריך להיות (1420 x 551) הגדרות המחוון יותר בגרסת PRO."
+
+#: inc/customizer.php:206
+msgid "Select page for slide one:"
+msgstr "בחר דף עבור שקופית אחת:"
+
+#: inc/customizer.php:218
+msgid "Select page for slide two:"
+msgstr "בחר דף עבור שקופית 2:"
+
+#: inc/customizer.php:230
+msgid "Select page for slide three:"
+msgstr "בחר עמוד עבור שקופית 3:"
+
+#: inc/customizer.php:240
+msgid "Hide Slider"
+msgstr "הסתר את הסליידר"
+
+#: inc/customizer.php:245
+msgid "Social Settings"
+msgstr "הגדרות חברתיות"
+
+#: inc/customizer.php:246
+msgid "Add social icons link here.<br />More icon available in PRO Version"
+msgstr "הוסף סמלים חברתיים קישור כאן.<br>סמל נוסף זמין בגרסת PRO"
+
+#: inc/customizer.php:256
+msgid "Add facebook link here"
+msgstr "הוסף קישור בפייסבוק כאן"
+
+#: inc/customizer.php:266
+msgid "Add twitter link here"
+msgstr "להוסיף בטוויטר קישור כאן"
+
+#: inc/customizer.php:275
+msgid "Add google plus link here"
+msgstr "הוספת גוגל פלוס קישור כאן"
+
+#: inc/customizer.php:284
+msgid "Add linkedin link here"
+msgstr "הוסף קישור linkedin כאן"
+
+#: inc/customizer.php:295 inc/customizer.php:346 inc/customizer.php:408
+msgid "Uncheck this box to show this section"
+msgstr "נקה תיבה זו כדי להראות סעיף זה"
+
+#: inc/customizer.php:299
+msgid "Footer About Design Agency"
+msgstr "תחתונה על סוכנות עיצוב"
+
+#: inc/customizer.php:301
+msgid "Manage Footer About Section"
+msgstr "ניהול תחתונה על סעיף"
+
+#: inc/customizer.php:321
+msgid "Add title here"
+msgstr "הוסף כותרת"
+
+#: inc/customizer.php:331
+msgid "Add about description for footer"
+msgstr "להוסיף על התיאור עבור כותרת תחתונה"
+
+#: inc/customizer.php:352
+msgid "Contact Details"
+msgstr "פרטים ליצירת קשר"
+
+#: inc/customizer.php:353
+msgid "Add you contact details here"
+msgstr "להוסיף את פרטי הקשר שלך כאן"
+
+#: inc/customizer.php:358
+msgid ""
+"First Floor, Rogger John Building 69 Market Street Hampshire, London UK 7925"
+msgstr ""
+"הקומה הראשונה, רוג'ר ג'ון בניין 69 ברחוב השוק המפשייר, לונדון אנגליה 7925"
+
+#: inc/customizer.php:363
+msgid "Add contact address here"
+msgstr "הוסף כתובת ליצירת קשר כאן"
+
+#: inc/customizer.php:370
+msgid "+01 23 456 7890"
+msgstr "+ 01 23 456 7890"
+
+#: inc/customizer.php:374
+msgid "Add contact number here."
+msgstr "הוסף איש קשר מספר כאן."
+
+#: inc/customizer.php:384
+msgid "Add your email here"
+msgstr "הוסף הדוא\"ל שלך כאן"
+
+#: inc/customizer.php:395
+msgid "Add your website url here"
+msgstr "הוסף את כתובת האתר שלך כאן"
+
+#: inc/customizer.php:461
+msgid "Upgrade to PRO Version"
+msgstr "שדרוג לגרסה PRO"
+
+#: inc/template-tags.php:22
+msgid "Pingback:"
+msgstr "פינגבאקים:"
+
+#: inc/template-tags.php:35
+#, php-format
+msgid "%s "
+msgstr "%1$s"
+
+#: inc/template-tags.php:38
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:45
+msgid "Your comment is awaiting moderation."
+msgstr "תגובתך ממתינה לאישור."
+
+#: inc/template-tags.php:136
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">לאור %1$s</span> <span class=\"byline\">על-ידי "
+"%2$s</span>"
+
+#: index.php:56
+msgid "Latest News"
+msgstr "כתבות אחרונות"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "לא נמצא דבר"
+
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "מוכן לפרסם את הפוסט הראשון שלך<a href=\"%1$s\">Get started here</a>."
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"אנו מצטערים, לא מצאנו שום דבר שקשור למונחי החיפוש שכתבת. יש לנסות שוב בעזרת "
+"מילות חיפוש אחרות."
+
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "נראה שאנחנו לא מוצאים מה שאתה מחפש. אולי חיפוש יכול לעזור."
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "תוצאות חיפוש עבור: %s"
+
+#: sidebar.php:10
+msgid "Archives"
+msgstr "ארכיון"
+
+#: sidebar.php:16
+msgid "Meta"
+msgstr "מטא"
+
+#. Theme Name of the plugin/theme
+msgid "SKT Design Agency"
+msgstr "SKT Design Agency"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.sktthemes.net/shop/skt-design-agency/"
+msgstr "http://www.sktthemes.net/shop/skt-design-agency/"
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Design Agency is a responsive WordPress theme which can be used for web "
+"design firms or any other corporate, business, agencies, consulting, firms, "
+"shops and any other kind of website purpose. It can also be used for "
+"portfolio, photography, personal and blogging as well. This theme is simple, "
+"white, minimal, clean. Translation ready theme it is compatible with "
+"qTranslate X for multilingual and WooCommerce for E-Commerce. Check demo at: "
+"http://sktthemesdemo.net/design-agency/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.sktthemes.net"
+msgstr "http://www.sktthemes.net"
+
+#~ msgid ""
+#~ "SKT Design Agency is a responsive WordPress theme which can be used for "
+#~ "web design firms or any other corporate, business, agencies, consulting, "
+#~ "firms, shops and any other kind of website purpose. It can also be used "
+#~ "for portfolio, photography, personal and blogging as well. Translation "
+#~ "ready theme it is compatible with qTranslate X for multilingual and "
+#~ "WooCommerce for E-Commerce. Check demo at: http://sktthemesdemo.net/"
+#~ "design-agency/"
+#~ msgstr ""
+#~ "סוכנות עיצוב SKT הוא נושא וורדפרס מגיב אשר יכול לשמש עבור חברות עיצוב web "
+#~ "או תאגיד, עסקי, סוכנויות אחרות, ייעוץ, חברות, חנויות, כל סוג אחר של אתר "
+#~ "המטרה. זה יכול לשמש גם עבור תיק, לצילום, אישי, כמו גם לבלוגים. תרגום נושא "
+#~ "מוכן הוא תואם qTranslate X עבור רב לשוני, WooCommerce של מסחר אלקטרוני. "
+#~ "הסימון הדגמה ב: http://sktthemesdemo.net/design-agency/"

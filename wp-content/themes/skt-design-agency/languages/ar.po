@@ -1,0 +1,524 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SKT Design Agency\n"
+"POT-Creation-Date: 2016-06-07 10:14+0530\n"
+"PO-Revision-Date: 2016-06-07 10:14+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "خطأ الصفحه غير موجوده"
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn..... Don't worry... it happens to the "
+"best of us."
+msgstr "يبدو وكأنه كنت قد اتخذت منعطفا خاطئا... لا تقلق.. يحدث أن أفضل منا."
+
+#: archive.php:36 category.php:32 index.php:35 index.php:84 search.php:25
+msgid "Back"
+msgstr "رجوع"
+
+#: archive.php:37 category.php:33 index.php:36 index.php:85 search.php:26
+msgid "Next"
+msgstr "التالي"
+
+#: category.php:19
+msgid "Category: "
+msgstr "التصنيف:"
+
+#: comments.php:30
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "واحد يفكر في &ldquo;%2$s&rdquo;"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: comments.php:38
+msgid "Comment navigation"
+msgstr "الإنتقال بين التعليقات"
+
+#: comments.php:39
+msgid "&larr; Older Comments"
+msgstr "‏أقدم التعليقات"
+
+#: comments.php:40
+msgid "Newer Comments &rarr;"
+msgstr "أحدث التعليقات"
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة"
+
+#: content-page.php:18 content-single.php:33 content.php:31 image.php:57
+msgid "Pages:"
+msgstr "الصفحات :"
+
+#: content-page.php:23 content-single.php:45 image.php:31 image.php:63
+#: inc/template-tags.php:22 inc/template-tags.php:41
+msgid "Edit"
+msgstr "تحرير"
+
+#: content.php:16
+msgid ", "
+msgstr ","
+
+#: content.php:24
+msgid "Read More &raquo;"
+msgstr "اقرأ المزيد &raquo;"
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "أكمل قراءة <span class=“meta-nav”>&rarr;</span>"
+
+#: footer.php:19 inc/customizer.php:316
+msgid "About Design Agency"
+msgstr "عن الوكالة"
+
+#: footer.php:22 inc/customizer.php:327
+msgid ""
+"Sed suscipit mauris nec mauris vulputate, a posuere libero congue. Nam "
+"laoreet elit eu erat pulvinar, et efficitur nibh euismod.Nam metus lorem, "
+"hendrerit quis ante eget, lobortis elementum neque. Aliquam in ullamcorper "
+"quam. Integer euismod ligula in mauris vehic."
+msgstr ""
+"Sed سعفص ضظغ nec ضظغ حطي، سعفص قرشت ليبيرو. حركة عدم الانحياز ثخذ ضظغ هوز "
+"حطي الاتحاد الأوروبي، et افيسيتور حطي قرشت. أبجد ضظغ نام، سعفص حطي كلمن "
+"أنتي، أبجد هوز حطي. أبجد هوز حطي في ثخذ ضظغ. عدد صحيح ضظغ حطي في بيتش ضظغ."
+
+#: footer.php:25
+msgid ""
+"Check Appearance >> Customize >> About Design Agency for controlling this "
+"section."
+msgstr "تحقق من ظهور >> تخصيص >> \"حول وكالة تصميم\" للتحكم في هذا القسم."
+
+#: footer.php:32
+msgid "Latest Posts"
+msgstr "اخر المقالات"
+
+#: footer.php:52
+msgid "Where to find us"
+msgstr "أين تجدنا"
+
+#: footer.php:60
+msgid "Phone:"
+msgstr "التليفون:"
+
+#: footer.php:64
+msgid "E-mail:"
+msgstr "البريد الالكتروني:"
+
+#: footer.php:68
+msgid "Website:"
+msgstr "رابط الموقع:"
+
+#: footer.php:74
+msgid ""
+"Check Appearance >> Customize >> Contact Details for controlling this "
+"section."
+msgstr "تحقق من ظهور >> تخصيص >> \"تفاصيل جهة الاتصال\" للتحكم في هذا القسم."
+
+#: footer.php:93
+msgid ""
+"Check Appearance >> Customize >> Social Settings for controlling this "
+"section."
+msgstr "تحقق من ظهور >> تخصيص >> \"الأوضاع الاجتماعية\" للسيطرة على هذا القسم."
+
+#: footer.php:103
+msgid "&copy; 2016"
+msgstr "© 2016"
+
+#: footer.php:103
+msgid "All Rights Reserved"
+msgstr "جميع الحقوق محفوظة"
+
+#: functions.php:36
+msgid "Primary Menu"
+msgstr "القائمة الأولية"
+
+#: functions.php:50
+msgid "Blog Sidebar"
+msgstr "الشريط الجانبي للمدونة"
+
+#: functions.php:51
+msgid "Appears on blog page sidebar"
+msgstr "يظهر في الشريط الجانبي في صفحة المدونة"
+
+#: functions.php:70
+msgctxt "Pacifico:on or off"
+msgid "on"
+msgstr "على"
+
+#: functions.php:71
+msgctxt "PT Sans:on or off"
+msgid "on"
+msgstr "على"
+
+#: functions.php:72
+msgctxt "Oswald:on or off"
+msgid "on"
+msgstr "على"
+
+#: functions.php:73
+msgctxt "Lobster:on or off"
+msgid "on"
+msgstr "على"
+
+#: header.php:43
+msgid "Menu"
+msgstr "القائمة"
+
+#: header.php:90 header.php:246 index.php:74
+msgid "Read More"
+msgstr "اقرأ المزيد"
+
+#: header.php:217 inc/customizer.php:132
+msgid "Why Choose Us"
+msgstr "لماذا نحن؟"
+
+#: image.php:21
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"نشرت <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">"
+"%2$s</time></span> فى <a href=\"%3$s\">%4$s &times; %5$s</a> فى <a href="
+"\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+#: image.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "‏<span class=“meta-nav”>&rarr;</span> السابق"
+
+#: image.php:37
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "التالى <span class=“meta-nav”>&larr;</span>"
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr "حول موضوع"
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr "حول معلومات الموضوع"
+
+#: inc/about-themes.php:32
+msgid ""
+"SKT Design Agency is a responsive WordPress theme which can be used for web "
+"design firms or any other corporate, business, agencies, consulting, firms, "
+"shops and any other kind of website purpose. It can also be used for "
+"portfolio, photography, personal and blogging as well. Translation ready "
+"theme it is compatible with qTranslate X for multilingual and WooCommerce "
+"for E-Commerce."
+msgstr ""
+"وكالة تصميم SKT هو موضوع استجابة وورد التي يمكن استخدامها لشركات تصميم الويب "
+"أو أي وكالات الشركات، والأعمال التجارية، والاستشارات، الشركات والمحلات "
+"التجارية وأي نوع آخر من الموقع والغرض. يمكن أيضا استخدامه لاستثمارات، "
+"والتصوير الفوتوغرافي، والشخصية والمدونات، وكذلك. موضوع الترجمة جاهزة ومتوافق "
+"مع qTranslate X لمتعدد اللغات وووكوميرسي للتجارة الإلكترونية."
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr "عرض التجريبي"
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr "شراء برو"
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr "الوثائق"
+
+#: inc/customizer.php:34
+msgid "Color Scheme"
+msgstr "اللون"
+
+#: inc/customizer.php:35
+msgid "More color options in PRO Version"
+msgstr "خيارات الألوان أكثر في إصدار المحترفين."
+
+#: inc/customizer.php:42
+msgid "About Us Section"
+msgstr "اخفاء نبذة عنّا"
+
+#: inc/customizer.php:43
+msgid "Select Page from the dropdown"
+msgstr "حدد الصفحة من القائمة المنسدلة للقسم الأول"
+
+#: inc/customizer.php:55
+msgid "Select page for about us section"
+msgstr "لماذا تختار لنا الصفحة للمقطع"
+
+#: inc/customizer.php:65 inc/customizer.php:123 inc/customizer.php:181
+msgid "Hide This Section"
+msgstr "القسم المنزلق إخفاء"
+
+#: inc/customizer.php:74
+msgid "Home Featured Boxes"
+msgstr "تمييز بالرئيسية"
+
+#: inc/customizer.php:75
+#, php-format
+msgid ""
+"Featured Image Dimensions : ( 231 X 148 )<br/> Select Featured Image for "
+"these pages <br /> How to set featured image %s"
+msgstr ""
+"أبعاد الصورة الموصى بها: (231 × 148)<br>حدد \"صورة مميزة\" لهذه "
+"الصفحات<br>كيفية تعيين صورة مميزة %s"
+
+#: inc/customizer.php:75 inc/customizer.php:133
+msgid "Click Here ?"
+msgstr "انقر هنا"
+
+#: inc/customizer.php:89 inc/customizer.php:147
+msgid "Select page for box one:"
+msgstr "حدد صفحة لشريحة واحدة:"
+
+#: inc/customizer.php:101 inc/customizer.php:159
+msgid "Select page for box two:"
+msgstr "حدد الصفحة مربع اثنين:"
+
+#: inc/customizer.php:113 inc/customizer.php:171
+msgid "Select page for box three:"
+msgstr "حدد الصفحة للشرائح الثلاث:"
+
+#: inc/customizer.php:133
+#, php-format
+msgid ""
+"Featured Image Dimensions : ( 135 X 135 )<br/> Select Featured Image for "
+"these pages <br /> How to set featured image %s"
+msgstr ""
+"أبعاد الصورة الموصى بها: (135 X 135)<br>حدد \"صورة مميزة\" لهذه "
+"الصفحات<br>كيفية تعيين صورة مميزة %s"
+
+#: inc/customizer.php:191
+msgid "Slider Settings"
+msgstr "اعدادات السلايدر"
+
+#: inc/customizer.php:193
+msgid ""
+"Featured Image Size Should be ( 1420x551 ) More slider settings available in "
+"PRO Version."
+msgstr ""
+"ظهرت \"صورة حجم ينبغي\" أن (1420 x 551) أكثر المنزلق الإعدادات المتوفرة في "
+"الإصدار PRO."
+
+#: inc/customizer.php:206
+msgid "Select page for slide one:"
+msgstr "حدد صفحة لشريحة واحدة:"
+
+#: inc/customizer.php:218
+msgid "Select page for slide two:"
+msgstr "حدد صفحة للشريحة الثانية:"
+
+#: inc/customizer.php:230
+msgid "Select page for slide three:"
+msgstr "حدد الصفحة للشرائح الثلاث:"
+
+#: inc/customizer.php:240
+msgid "Hide Slider"
+msgstr "إخفاء شريط التمرير"
+
+#: inc/customizer.php:245
+msgid "Social Settings"
+msgstr "الاعدادات الاجتماعية"
+
+#: inc/customizer.php:246
+msgid "Add social icons link here.<br />More icon available in PRO Version"
+msgstr "أيقونات التواصل الاجتماعي"
+
+#: inc/customizer.php:256
+msgid "Add facebook link here"
+msgstr "إضافة رابط ألفيس بوك هنا"
+
+#: inc/customizer.php:266
+msgid "Add twitter link here"
+msgstr "إضافة رابط تويتر هنا"
+
+#: inc/customizer.php:275
+msgid "Add google plus link here"
+msgstr "إضافة جوجل بالإضافة إلى ارتباط هنا"
+
+#: inc/customizer.php:284
+msgid "Add linkedin link here"
+msgstr "أضف وصلة linkedin هنا"
+
+#: inc/customizer.php:295 inc/customizer.php:346 inc/customizer.php:408
+msgid "Uncheck this box to show this section"
+msgstr "قم بإلغاء تحديد هذا المربع لإظهار هذا المقطع"
+
+#: inc/customizer.php:299
+msgid "Footer About Design Agency"
+msgstr "تذييل الصفحة حول تصميم وكالة"
+
+#: inc/customizer.php:301
+msgid "Manage Footer About Section"
+msgstr "إدارة تذييل حول القسم"
+
+#: inc/customizer.php:321
+msgid "Add title here"
+msgstr "إضافة العنوان هنا"
+
+#: inc/customizer.php:331
+msgid "Add about description for footer"
+msgstr "إضافة حول وصف لتذييل الصفحة"
+
+#: inc/customizer.php:352
+msgid "Contact Details"
+msgstr "تفاصيل الاتصال"
+
+#: inc/customizer.php:353
+msgid "Add you contact details here"
+msgstr "إضافة الاتصال بالتفاصيل هنا"
+
+#: inc/customizer.php:358
+msgid ""
+"First Floor, Rogger John Building 69 Market Street Hampshire, London UK 7925"
+msgstr ""
+"الطابق الأول، روجر جون مبنى 69 شارع السوق هامبشاير، المملكة المتحدة لندن 7925"
+
+#: inc/customizer.php:363
+msgid "Add contact address here"
+msgstr "إضافة عنوان جهة الاتصال هنا"
+
+#: inc/customizer.php:370
+msgid "+01 23 456 7890"
+msgstr "+01 23 456 7890"
+
+#: inc/customizer.php:374
+msgid "Add contact number here."
+msgstr "إضافة رقم الاتصال هنا."
+
+#: inc/customizer.php:384
+msgid "Add your email here"
+msgstr "إضافة البريد الإلكتروني الخاص بك هنا"
+
+#: inc/customizer.php:395
+msgid "Add your website url here"
+msgstr ""
+"\n"
+"إضافة عنوان موقع الخاص بك هنا"
+
+#: inc/customizer.php:461
+msgid "Upgrade to PRO Version"
+msgstr "الترقية إلى الإصدار برو"
+
+#: inc/template-tags.php:22
+msgid "Pingback:"
+msgstr "التعقيبات"
+
+#: inc/template-tags.php:35
+#, php-format
+msgid "%s "
+msgstr "%1$s"
+
+#: inc/template-tags.php:38
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:45
+msgid "Your comment is awaiting moderation."
+msgstr "شكرا لك … تعليقك بإنتظار المراجعة وسيتم نشره قريبا."
+
+#: inc/template-tags.php:136
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">نشرت %1$s</span> <span class=\"byline\">بواسطة "
+"%2$s</span>"
+
+#: index.php:56
+msgid "Latest News"
+msgstr "أخبار جديدة"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "لم يتم العثور على شيء"
+
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "مستعد لنشر أول مقالة لك؟ <a href=\"%s\">أبدأ من هنا </a>."
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"معذرة، لكن لا شئ له صلة بمصطلحات بحثك. الرجاء المحاولة مرة أخرى ببعض كلمات "
+"مفتاحية مختلفة،"
+
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"يبدو أننا لا يمكننا &rsquo;t العثور على ماذا أنت&rsquo;re تبحث عنه. ربما "
+"البحث يستطيع المساعدة."
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتائج البحث لـ : %s"
+
+#: sidebar.php:10
+msgid "Archives"
+msgstr "الأرشيفات"
+
+#: sidebar.php:16
+msgid "Meta"
+msgstr "علامة الوصف"
+
+#. Theme Name of the plugin/theme
+msgid "SKT Design Agency"
+msgstr "SKT Design Agency"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.sktthemes.net/shop/skt-design-agency/"
+msgstr "http://www.sktthemes.net/shop/skt-design-agency/"
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Design Agency is a responsive WordPress theme which can be used for web "
+"design firms or any other corporate, business, agencies, consulting, firms, "
+"shops and any other kind of website purpose. It can also be used for "
+"portfolio, photography, personal and blogging as well. This theme is simple, "
+"white, minimal, clean. Translation ready theme it is compatible with "
+"qTranslate X for multilingual and WooCommerce for E-Commerce. Check demo at: "
+"http://sktthemesdemo.net/design-agency/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.sktthemes.net"
+msgstr "http://www.sktthemes.net"

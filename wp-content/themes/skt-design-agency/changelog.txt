@@ -1,0 +1,24 @@
+Version 1.0
+i) Intial version Release
+
+Version 1.1
+i) Changes as per reviewer comments.
+
+Version 1.2
+i) Solved home page boxes content filters & linking issue.
+
+Version 1.3
+i) We allowed to remove all sections individually.
+
+Version 1.4
+i) Solved PHP Notice: Undefined variable issue.
+
+Version 1.5
+i) Changes as per reviewer comments.
+
+Version 1.6
+i) Changes as per reviewer comments.
+
+Version 1.7
+i)  Added 12 more languages translated.
+ii) Removed part of code as admin mentioned in last review.
